@@ -17,7 +17,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 109,
+    "studentRegister": 110,
     "studentAccepted": 0
   },
   {
@@ -143,7 +143,7 @@
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
