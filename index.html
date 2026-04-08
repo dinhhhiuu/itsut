@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <title>Internship Tracker</title>
+
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      padding: 20px;
+      background: #f7f7f7;
+    }
+
+    h1 {
+      text-align: center;
+    }
+
+    .controls {
+      margin-bottom: 15px;
+      text-align: center;
+    }
+
+    button {
+      margin: 5px;
+      padding: 8px 12px;
+      border: none;
+      background: #007bff;
+      color: white;
+      cursor: pointer;
+      border-radius: 5px;
+    }
+
+    button:hover {
+      background: #0056b3;
+    }
+
+    table {
+      border-collapse: collapse;
+      width: 100%;
+      background: white;
+    }
+
+    th, td {
+      border: 1px solid #ddd;
+      padding: 10px;
+      text-align: center;
+    }
+
+    th {
+      background: #f2f2f2;
+    }
+
+    tr:hover {
+      background: #f9f9f9;
+    }
+
+    .full {
+      background-color: #ffcccc !important;
+    }
+
+    .footer {
+      margin-top: 20px;
+      text-align: center;
+      color: #777;
+      font-size: 14px;
+    }
+  </style>
+</head>
+
+<body>
+
+  <h1>📊 Internship Company Tracker</h1>
+
+  <div class="controls">
+    <button onclick="fetchData()">🔄 Refresh</button>
+    <button onclick="showAvailableOnly()">🟢 Available Only</button>
+    <button onclick="sortByRegister()">📈 Sort by Registered</button>
+  </div>
+
+  <table>
+    <thead>
+      <tr>
+        <th>Company Name</th>
+        <th>Max Accepted</th>
+        <th>Max Register</th>
+        <th>Registered</th>
+        <th>Accepted</th>
+      </tr>
+    </thead>
+    <tbody id="table-body">
+      <tr>
+        <td colspan="5">Loading...</td>
+      </tr>
+    </tbody>
+  </table>
+
+  <div class="footer">
+    Auto refresh mỗi 60 giây
+  </div>
+
+  <script src="script.js"></script>
+
+</body>
+</html>

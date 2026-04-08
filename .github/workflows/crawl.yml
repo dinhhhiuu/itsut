@@ -1,0 +1,30 @@
+name: Crawl Data
+
+on:
+  schedule:
+    - cron: "0 * * * *"   # mỗi 1 tiếng
+  workflow_dispatch:
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Run crawler
+        env:
+          DISCORD_WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
+        run: node crawl.js
+
+      - name: Commit data if changed
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add data.json
+          git diff --cached --quiet || git commit -m "update data"
+          git push
