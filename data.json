@@ -17,7 +17,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 126,
+    "studentRegister": 130,
     "studentAccepted": 0
   },
   {
@@ -31,7 +31,7 @@
     "name": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 28,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -66,7 +66,7 @@
     "name": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 17,
+    "studentRegister": 16,
     "studentAccepted": 0
   },
   {
@@ -185,7 +185,7 @@
     "name": "CÔNG TY TNHH CRAFT BOTS",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 4
   },
   {
