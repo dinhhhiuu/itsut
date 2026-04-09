@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 59,
+    "studentRegister": 60,
     "studentAccepted": 1
   },
   {
@@ -17,7 +17,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 111,
+    "studentRegister": 119,
     "studentAccepted": 0
   },
   {
@@ -31,7 +31,7 @@
     "name": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 19,
+    "studentRegister": 20,
     "studentAccepted": 0
   },
   {
@@ -45,7 +45,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -143,21 +143,21 @@
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 0
   },
   {
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
-    "maxAcceptedStudent": 2,
-    "maxRegister": 6,
-    "studentRegister": 6,
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
@@ -171,7 +171,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 13,
+    "studentRegister": 12,
     "studentAccepted": 0
   },
   {
@@ -185,8 +185,8 @@
     "name": "CÔNG TY TNHH CRAFT BOTS",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
-    "studentAccepted": 3
+    "studentRegister": 11,
+    "studentAccepted": 4
   },
   {
     "name": "CUBS co.,ltd",
