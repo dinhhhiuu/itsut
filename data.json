@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 60,
+    "studentRegister": 59,
     "studentAccepted": 1
   },
   {
@@ -45,7 +45,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -213,7 +213,7 @@
     "name": "Công ty Cổ phần Fan Music Việt Nam - FAN MUSIC VIETNAM JOINT STOCK COMPANY",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
