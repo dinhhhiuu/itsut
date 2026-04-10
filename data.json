@@ -45,7 +45,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -74,6 +74,13 @@
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
     "studentRegister": 12,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
+    "maxAcceptedStudent": 100,
+    "maxRegister": 300,
+    "studentRegister": 0,
     "studentAccepted": 0
   },
   {
@@ -157,8 +164,15 @@
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY TNHH NOBIWARE",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 1,
+    "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
@@ -243,5 +257,12 @@
     "maxRegister": 1,
     "studentRegister": 0,
     "studentAccepted": 1
+  },
+  {
+    "name": "College of Engineering, National Chung Cheng University (CCU)",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0
   }
 ]
