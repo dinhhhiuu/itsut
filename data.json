@@ -17,7 +17,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 153,
+    "studentRegister": 154,
     "studentAccepted": 0
   },
   {
@@ -31,7 +31,7 @@
     "name": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -80,7 +80,7 @@
     "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 0,
+    "studentRegister": 2,
     "studentAccepted": 0
   },
   {
@@ -94,7 +94,7 @@
     "name": "Sorimachi - Nhật Bản (SRMC JP)",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0
   },
   {
@@ -171,7 +171,7 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 1,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
