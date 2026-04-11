@@ -80,7 +80,7 @@
     "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 6,
+    "studentRegister": 7,
     "studentAccepted": 0
   },
   {
@@ -185,7 +185,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 14,
+    "studentRegister": 13,
     "studentAccepted": 1
   },
   {
