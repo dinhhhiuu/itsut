@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 60,
+    "studentRegister": 59,
     "studentAccepted": 1
   },
   {
@@ -17,7 +17,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 162,
+    "studentRegister": 163,
     "studentAccepted": 0
   },
   {
@@ -185,8 +185,8 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 15,
-    "studentAccepted": 1
+    "studentRegister": 14,
+    "studentAccepted": 2
   },
   {
     "name": "Công ty TNHH CODE LEAP",
