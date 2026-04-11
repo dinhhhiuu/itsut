@@ -143,21 +143,21 @@
     "name": "Phòng thí nghiệm nghiên cứu về nước khu vực châu Á (CARE)",
     "maxAcceptedStudent": 1,
     "maxRegister": 3,
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 0
   },
   {
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 13,
+    "studentRegister": 15,
     "studentAccepted": 2
   },
   {
@@ -171,7 +171,7 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 20,
+    "studentRegister": 21,
     "studentAccepted": 0
   },
   {
@@ -185,7 +185,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 1
   },
   {
@@ -199,7 +199,7 @@
     "name": "CÔNG TY TNHH CRAFT BOTS",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 4
   },
   {
