@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 58,
+    "studentRegister": 59,
     "studentAccepted": 1
   },
   {
@@ -17,7 +17,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 183,
+    "studentRegister": 185,
     "studentAccepted": 0
   },
   {
@@ -94,7 +94,7 @@
     "name": "Công ty TNHH OpenWay Việt Nam (OW)",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 0
   },
   {
@@ -115,7 +115,7 @@
     "name": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -129,7 +129,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -178,14 +178,14 @@
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 1
   },
   {
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 32,
+    "studentRegister": 41,
     "studentAccepted": 0
   },
   {
@@ -206,7 +206,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 3
   },
   {
