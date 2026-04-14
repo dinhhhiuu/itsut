@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 53,
+    "studentRegister": 54,
     "studentAccepted": 2
   },
   {
@@ -38,7 +38,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 0
   },
   {
@@ -52,7 +52,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 12,
     "maxRegister": 36,
-    "studentRegister": 17,
+    "studentRegister": 20,
     "studentAccepted": 0
   },
   {
@@ -192,7 +192,7 @@
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 1
   },
   {
@@ -206,7 +206,7 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 21,
+    "studentRegister": 20,
     "studentAccepted": 0
   },
   {
@@ -220,7 +220,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 10,
+    "studentRegister": 9,
     "studentAccepted": 4
   },
   {
