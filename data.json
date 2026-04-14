@@ -35,10 +35,24 @@
     "studentAccepted": 0
   },
   {
+    "name": "Công ty Cổ Phần Cohota",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 0,
+    "studentAccepted": 0
+  },
+  {
     "name": "CÔNG TY CỔ PHẦN GIHOT",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
     "studentRegister": 12,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
+    "maxAcceptedStudent": 12,
+    "maxRegister": 36,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -52,7 +66,7 @@
     "name": "Trung tâm Giải pháp Miền Nam – Tổng Công ty Giải pháp Doanh nghiệp Viettel (VTS)",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 90,
+    "studentRegister": 89,
     "studentAccepted": 0
   },
   {
@@ -80,7 +94,7 @@
     "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
@@ -185,7 +199,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 49,
+    "studentRegister": 50,
     "studentAccepted": 0
   },
   {
