@@ -3,8 +3,8 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 60,
-    "studentAccepted": 1
+    "studentRegister": 53,
+    "studentAccepted": 2
   },
   {
     "name": "Công ty TNHH MTV Phương Đông Linh Hoạt Việt Nam (East Agile - EA)",
@@ -17,7 +17,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 188,
+    "studentRegister": 186,
     "studentAccepted": 0
   },
   {
@@ -31,14 +31,14 @@
     "name": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 0,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
@@ -52,7 +52,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 12,
     "maxRegister": 36,
-    "studentRegister": 8,
+    "studentRegister": 15,
     "studentAccepted": 0
   },
   {
@@ -66,7 +66,7 @@
     "name": "Trung tâm Giải pháp Miền Nam – Tổng Công ty Giải pháp Doanh nghiệp Viettel (VTS)",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 89,
+    "studentRegister": 90,
     "studentAccepted": 0
   },
   {
@@ -164,7 +164,7 @@
     "name": "MOBIUS Co., Ltd. (Nhật Bản)",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
@@ -178,7 +178,7 @@
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -199,14 +199,14 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 50,
+    "studentRegister": 53,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 20,
     "studentAccepted": 0
   },
   {
@@ -220,8 +220,8 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 12,
-    "studentAccepted": 3
+    "studentRegister": 11,
+    "studentAccepted": 4
   },
   {
     "name": "Công ty TNHH CODE LEAP",
