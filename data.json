@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 54,
+    "studentRegister": 53,
     "studentAccepted": 2
   },
   {
@@ -38,7 +38,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 12,
+    "studentRegister": 16,
     "studentAccepted": 0
   },
   {
@@ -52,7 +52,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 12,
     "maxRegister": 36,
-    "studentRegister": 20,
+    "studentRegister": 22,
     "studentAccepted": 0
   },
   {
@@ -178,7 +178,7 @@
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 0
   },
   {
@@ -206,7 +206,7 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 20,
+    "studentRegister": 22,
     "studentAccepted": 0
   },
   {
@@ -220,7 +220,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 4
   },
   {
