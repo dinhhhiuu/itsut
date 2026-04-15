@@ -10,7 +10,7 @@
     "name": "Công ty TNHH Sorimachi Việt Nam (SRMC VN)",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 3,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 184,
+    "studentRegister": 183,
     "studentAccepted": 0
   },
   {
@@ -45,7 +45,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 23,
+    "studentRegister": 22,
     "studentAccepted": 0
   },
   {
@@ -66,7 +66,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 12,
     "maxRegister": 36,
-    "studentRegister": 35,
+    "studentRegister": 36,
     "studentAccepted": 0
   },
   {
@@ -143,7 +143,7 @@
     "name": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 0
   },
   {
@@ -220,21 +220,21 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 52,
+    "studentRegister": 51,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
@@ -360,14 +360,14 @@
     "name": "CÔNG TY TNHH SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ - XUẤT NHẬP KHẨU ĐĂNG PHONG",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 17,
+    "studentRegister": 25,
     "studentAccepted": 0
   }
 ]
