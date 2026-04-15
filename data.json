@@ -38,7 +38,7 @@
     "name": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 24,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
@@ -73,7 +73,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -136,7 +136,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -227,21 +227,21 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 28,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 5
   },
   {
