@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 50,
+    "studentRegister": 49,
     "studentAccepted": 4
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 180,
+    "studentRegister": 179,
     "studentAccepted": 0
   },
   {
@@ -45,7 +45,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 23,
+    "studentRegister": 24,
     "studentAccepted": 0
   },
   {
@@ -87,14 +87,14 @@
     "name": "Công ty TNHH atWare Việt Nam",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1
   },
   {
     "name": "Công ty Cổ phần NCCPLUS",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -164,14 +164,14 @@
     "name": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -227,7 +227,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 54,
+    "studentRegister": 55,
     "studentAccepted": 0
   },
   {
@@ -248,7 +248,7 @@
     "name": "Công ty Cổ phần An ninh mạng THD",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 4,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -353,7 +353,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0
   },
   {
