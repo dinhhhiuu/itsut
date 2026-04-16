@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 183,
+    "studentRegister": 182,
     "studentAccepted": 0
   },
   {
@@ -59,21 +59,21 @@
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 3,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
-    "maxAcceptedStudent": 12,
-    "maxRegister": 36,
-    "studentRegister": 36,
+    "maxAcceptedStudent": 15,
+    "maxRegister": 45,
+    "studentRegister": 37,
     "studentAccepted": 0
   },
   {
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -88,6 +88,13 @@
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
     "studentRegister": 6,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty Cổ phần NCCPLUS VIỆT NAM",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 6,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
@@ -122,7 +129,7 @@
     "name": "Công ty TNHH OpenWay Việt Nam (OW)",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 1
   },
   {
@@ -143,7 +150,7 @@
     "name": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
@@ -234,14 +241,21 @@
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty Cổ phần An ninh mạng THD",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 0,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH T4 Tek",
-    "maxAcceptedStudent": 5,
-    "maxRegister": 15,
-    "studentRegister": 4,
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 3,
     "studentAccepted": 5
   },
   {
@@ -255,7 +269,7 @@
     "name": "Công ty CP Công nghệ SIGINX",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 6
   },
   {
@@ -339,7 +353,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 0
   },
   {
@@ -367,7 +381,21 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 27,
+    "studentRegister": 26,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ GIẢI PHÁP TEANIS",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 6,
+    "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Nagaoka University of Technology",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0
   }
 ]
