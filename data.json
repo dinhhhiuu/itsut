@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 49,
+    "studentRegister": 44,
     "studentAccepted": 4
   },
   {
@@ -59,7 +59,7 @@
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -143,7 +143,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -164,7 +164,7 @@
     "name": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 0
   },
   {
@@ -248,14 +248,14 @@
     "name": "Công ty Cổ phần An ninh mạng THD",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 6,
+    "studentRegister": 7,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 3,
+    "studentRegister": 4,
     "studentAccepted": 6
   },
   {
@@ -269,7 +269,7 @@
     "name": "Công ty CP Công nghệ SIGINX",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 6
   },
   {
@@ -353,7 +353,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 15,
+    "studentRegister": 16,
     "studentAccepted": 0
   },
   {
@@ -381,7 +381,7 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 27,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
