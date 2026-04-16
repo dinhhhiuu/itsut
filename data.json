@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 50,
+    "studentRegister": 49,
     "studentAccepted": 4
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 182,
+    "studentRegister": 181,
     "studentAccepted": 0
   },
   {
@@ -38,14 +38,14 @@
     "name": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 25,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 22,
+    "studentRegister": 23,
     "studentAccepted": 0
   },
   {
@@ -59,14 +59,14 @@
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 5,
+    "studentRegister": 7,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 37,
+    "studentRegister": 38,
     "studentAccepted": 0
   },
   {
@@ -91,10 +91,10 @@
     "studentAccepted": 0
   },
   {
-    "name": "Công ty Cổ phần NCCPLUS VIỆT NAM",
+    "name": "Công ty Cổ phần NCCPLUS",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 1,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -143,7 +143,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -171,7 +171,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -227,7 +227,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 51,
+    "studentRegister": 54,
     "studentAccepted": 0
   },
   {
@@ -248,7 +248,7 @@
     "name": "Công ty Cổ phần An ninh mạng THD",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 0,
+    "studentRegister": 2,
     "studentAccepted": 0
   },
   {
@@ -256,7 +256,7 @@
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
     "studentRegister": 3,
-    "studentAccepted": 5
+    "studentAccepted": 6
   },
   {
     "name": "Công ty TNHH CODE LEAP",
@@ -346,14 +346,14 @@
     "name": "Tig Dev Division",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0
+    "studentRegister": 0,
+    "studentAccepted": 1
   },
   {
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 12,
+    "studentRegister": 14,
     "studentAccepted": 0
   },
   {
@@ -381,13 +381,13 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ GIẢI PHÁP TEANIS",
-    "maxAcceptedStudent": 2,
-    "maxRegister": 6,
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
     "studentRegister": 1,
     "studentAccepted": 0
   },
