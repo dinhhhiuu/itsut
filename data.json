@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 175,
+    "studentRegister": 173,
     "studentAccepted": 0
   },
   {
@@ -45,14 +45,14 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 24,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN GIHOT",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
@@ -66,7 +66,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 44,
+    "studentRegister": 45,
     "studentAccepted": 0
   },
   {
@@ -108,7 +108,7 @@
     "name": "Bosch 1 - Bosch Global Software Technologies Company Limited  (BGSW)",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 0
   },
   {
@@ -136,7 +136,7 @@
     "name": "Công ty TNHH OpenWay Việt Nam (OW)",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 1
   },
   {
@@ -157,7 +157,7 @@
     "name": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 6,
+    "studentRegister": 7,
     "studentAccepted": 0
   },
   {
@@ -227,8 +227,8 @@
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
-    "studentAccepted": 1
+    "studentRegister": 8,
+    "studentAccepted": 2
   },
   {
     "name": "Công ty TNHH EyeCode Tech",
@@ -248,7 +248,7 @@
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -381,14 +381,14 @@
     "name": "CÔNG TY TNHH SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ - XUẤT NHẬP KHẨU ĐĂNG PHONG",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 16,
+    "studentRegister": 15,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -409,14 +409,14 @@
     "name": "Trung tâm Công nghệ Thông tin và Địa không gian Thành phố Hồ Chí Minh",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH ROBO-HI VIỆT NAM",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 1,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
