@@ -3,14 +3,14 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 47,
+    "studentRegister": 45,
     "studentAccepted": 4
   },
   {
     "name": "Công ty TNHH Sorimachi Việt Nam (SRMC VN)",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 178,
+    "studentRegister": 176,
     "studentAccepted": 0
   },
   {
@@ -45,7 +45,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 24,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
@@ -108,7 +108,7 @@
     "name": "CÔNG TY CỔ PHẦN TECHLAB",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
+    "studentRegister": 10,
     "studentAccepted": 0
   },
   {
@@ -129,7 +129,7 @@
     "name": "Công ty TNHH OpenWay Việt Nam (OW)",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 11,
+    "studentRegister": 12,
     "studentAccepted": 1
   },
   {
@@ -143,7 +143,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
@@ -171,7 +171,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -255,7 +255,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 6
   },
   {
@@ -381,7 +381,7 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 31,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -395,7 +395,7 @@
     "name": "Nagaoka University of Technology",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   }
 ]
