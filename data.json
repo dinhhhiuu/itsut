@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 45,
+    "studentRegister": 41,
     "studentAccepted": 4
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 176,
+    "studentRegister": 175,
     "studentAccepted": 0
   },
   {
@@ -45,7 +45,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 25,
+    "studentRegister": 24,
     "studentAccepted": 0
   },
   {
@@ -66,7 +66,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0
   },
   {
@@ -105,17 +105,24 @@
     "studentAccepted": 0
   },
   {
+    "name": "Bosch 1 - Bosch Global Software Technologies Company Limited  (BGSW)",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 2,
+    "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
     "name": "CÔNG TY CỔ PHẦN TECHLAB",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 10,
+    "studentRegister": 12,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -171,14 +178,14 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH DATALOGIC VIỆT NAM",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 0
   },
   {
@@ -227,7 +234,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 57,
+    "studentRegister": 59,
     "studentAccepted": 0
   },
   {
@@ -241,14 +248,14 @@
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
     "name": "Công ty Cổ phần An ninh mạng THD",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 9,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
@@ -381,7 +388,7 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -395,7 +402,28 @@
     "name": "Nagaoka University of Technology",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Trung tâm Công nghệ Thông tin và Địa không gian Thành phố Hồ Chí Minh",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY TNHH ROBO-HI VIỆT NAM",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
     "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY TNHH F5BIZ VIỆT NAM",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0
   }
 ]
