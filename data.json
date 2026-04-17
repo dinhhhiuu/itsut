@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 41,
+    "studentRegister": 40,
     "studentAccepted": 4
   },
   {
@@ -45,7 +45,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 25,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -59,8 +59,8 @@
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 8,
-    "studentAccepted": 0
+    "studentRegister": 7,
+    "studentAccepted": 1
   },
   {
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
@@ -87,7 +87,7 @@
     "name": "Công ty TNHH atWare Việt Nam",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 2,
     "studentAccepted": 1
   },
   {
@@ -150,7 +150,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -185,7 +185,7 @@
     "name": "CÔNG TY TNHH DATALOGIC VIỆT NAM",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0
   },
   {
@@ -227,7 +227,7 @@
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 2
   },
   {
@@ -262,7 +262,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 6
   },
   {
@@ -367,7 +367,7 @@
     "name": "Công Ty TNHH Jastech",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
