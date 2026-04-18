@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 177,
+    "studentRegister": 176,
     "studentAccepted": 0
   },
   {
@@ -45,7 +45,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 28,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -234,15 +234,15 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 58,
+    "studentRegister": 57,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
-    "studentAccepted": 0
+    "studentRegister": 29,
+    "studentAccepted": 1
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
@@ -360,7 +360,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 22,
+    "studentRegister": 23,
     "studentAccepted": 0
   },
   {
@@ -381,7 +381,7 @@
     "name": "CÔNG TY TNHH SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ - XUẤT NHẬP KHẨU ĐĂNG PHONG",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 16,
+    "studentRegister": 17,
     "studentAccepted": 0
   },
   {
@@ -416,7 +416,7 @@
     "name": "CÔNG TY TNHH ROBO-HI VIỆT NAM",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 7,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
