@@ -213,7 +213,7 @@
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 0
   },
   {
@@ -234,7 +234,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 54,
+    "studentRegister": 55,
     "studentAccepted": 0
   },
   {
@@ -248,7 +248,7 @@
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
