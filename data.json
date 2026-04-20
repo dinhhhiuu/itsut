@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 175,
+    "studentRegister": 173,
     "studentAccepted": 0
   },
   {
@@ -59,14 +59,14 @@
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 1
   },
   {
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0
   },
   {
@@ -115,7 +115,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 36,
+    "studentRegister": 38,
     "studentAccepted": 0
   },
   {
@@ -157,7 +157,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -185,7 +185,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
@@ -227,21 +227,21 @@
     "name": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 13,
+    "studentRegister": 14,
     "studentAccepted": 2
   },
   {
     "name": "Công ty TNHH Bioturing Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 7,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 6,
+    "studentRegister": 8,
     "studentAccepted": 2
   },
   {
@@ -255,7 +255,7 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 22,
+    "studentRegister": 23,
     "studentAccepted": 4
   },
   {
@@ -269,14 +269,14 @@
     "name": "Công ty Cổ phần An ninh mạng THD",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 7
   },
   {
