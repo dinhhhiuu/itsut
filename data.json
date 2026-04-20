@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 176,
+    "studentRegister": 175,
     "studentAccepted": 0
   },
   {
@@ -115,7 +115,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 39,
+    "studentRegister": 40,
     "studentAccepted": 0
   },
   {
@@ -234,7 +234,7 @@
     "name": "Công ty TNHH Bioturing Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
@@ -248,7 +248,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 60,
+    "studentRegister": 61,
     "studentAccepted": 0
   },
   {
