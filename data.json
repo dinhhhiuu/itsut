@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 49,
+    "studentRegister": 51,
     "studentAccepted": 4
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 168,
+    "studentRegister": 167,
     "studentAccepted": 0
   },
   {
@@ -80,7 +80,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 44,
+    "studentRegister": 45,
     "studentAccepted": 0
   },
   {
@@ -122,7 +122,7 @@
     "name": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 0
   },
   {
@@ -136,7 +136,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 43,
+    "studentRegister": 45,
     "studentAccepted": 15
   },
   {
@@ -206,7 +206,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -297,7 +297,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 7
   },
   {
@@ -360,7 +360,7 @@
     "name": "Công ty TNHH NOVAHA",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0
   },
   {
@@ -486,15 +486,15 @@
     "name": "Công ty CP ERP Việt",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH BIZNES",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0
+    "studentRegister": 0,
+    "studentAccepted": 1
   },
   {
     "name": "CÔNG TY TNHH COVERGO VIỆT NAM",
