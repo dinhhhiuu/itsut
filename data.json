@@ -87,7 +87,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
@@ -108,7 +108,7 @@
     "name": "Công ty TNHH atWare Việt Nam",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1
   },
   {
@@ -136,7 +136,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 45,
+    "studentRegister": 42,
     "studentAccepted": 15
   },
   {
@@ -206,7 +206,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
@@ -269,7 +269,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 63,
+    "studentRegister": 66,
     "studentAccepted": 0
   },
   {
@@ -290,14 +290,14 @@
     "name": "Công ty Cổ phần An ninh mạng THD",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 19,
+    "studentRegister": 22,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 5,
+    "studentRegister": 7,
     "studentAccepted": 7
   },
   {
@@ -395,7 +395,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
@@ -430,7 +430,7 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 19,
+    "studentRegister": 21,
     "studentAccepted": 10
   },
   {
