@@ -24,14 +24,14 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 174,
+    "studentRegister": 172,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH Công nghệ Thông tin Aureole",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 7,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
@@ -52,7 +52,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -66,14 +66,14 @@
     "name": "Công ty TNHH Cube System Việt Nam",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 12,
+    "studentRegister": 13,
     "studentAccepted": 1
   },
   {
@@ -87,7 +87,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -101,7 +101,7 @@
     "name": "CÔNG TY CỔ PHẦN TGL SOLUTIONS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 9,
+    "studentRegister": 13,
     "studentAccepted": 0
   },
   {
@@ -122,7 +122,7 @@
     "name": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 18,
+    "studentRegister": 17,
     "studentAccepted": 0
   },
   {
@@ -136,7 +136,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 41,
+    "studentRegister": 42,
     "studentAccepted": 0
   },
   {
@@ -206,7 +206,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
@@ -255,14 +255,14 @@
     "name": "Công ty TNHH Bioturing Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 12,
+    "studentRegister": 14,
     "studentAccepted": 0
   },
   {
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 7,
+    "studentRegister": 9,
     "studentAccepted": 2
   },
   {
@@ -283,7 +283,7 @@
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -318,7 +318,7 @@
     "name": "CÔNG TY TNHH CRAFT BOTS",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 4,
+    "studentRegister": 2,
     "studentAccepted": 4
   },
   {
@@ -423,14 +423,14 @@
     "name": "CÔNG TY TNHH SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ - XUẤT NHẬP KHẨU ĐĂNG PHONG",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 20,
+    "studentRegister": 22,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 17,
+    "studentRegister": 20,
     "studentAccepted": 10
   },
   {
