@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 167,
+    "studentRegister": 168,
     "studentAccepted": 0
   },
   {
@@ -570,7 +570,7 @@
     "name": "National University of Singapore – School of Computing (NUS SoC)",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   }
 ]
