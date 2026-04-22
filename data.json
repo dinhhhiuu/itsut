@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 48,
+    "studentRegister": 45,
     "studentAccepted": 4
   },
   {
@@ -52,7 +52,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 28,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -73,7 +73,7 @@
     "name": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 12,
+    "studentRegister": 16,
     "studentAccepted": 0
   },
   {
@@ -87,7 +87,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0
   },
   {
@@ -108,7 +108,7 @@
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -129,7 +129,7 @@
     "name": "Công ty Cổ phần NCCPLUS",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
@@ -192,7 +192,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -213,7 +213,7 @@
     "name": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 9,
+    "studentRegister": 10,
     "studentAccepted": 0
   },
   {
@@ -283,7 +283,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 63,
+    "studentRegister": 64,
     "studentAccepted": 5
   },
   {
@@ -304,7 +304,7 @@
     "name": "Công ty Cổ phần An ninh mạng THD",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 22,
+    "studentRegister": 21,
     "studentAccepted": 0
   },
   {
@@ -416,7 +416,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 27,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -444,7 +444,7 @@
     "name": "CÔNG TY TNHH SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ - XUẤT NHẬP KHẨU ĐĂNG PHONG",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 23,
+    "studentRegister": 24,
     "studentAccepted": 0
   },
   {
@@ -507,7 +507,7 @@
     "name": "Công ty CP ERP Việt",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0
   },
   {
@@ -521,8 +521,8 @@
     "name": "CÔNG TY TNHH COVERGO VIỆT NAM",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0
+    "studentRegister": 0,
+    "studentAccepted": 1
   },
   {
     "name": "CÔNG TY TNHH GIẢI PHÁP KỸ THUẬT CMN",
@@ -549,7 +549,7 @@
     "name": "Công ty TNHH Công nghệ và Giải pháp Omega",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
@@ -557,13 +557,13 @@
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
     "studentRegister": 2,
-    "studentAccepted": 0
+    "studentAccepted": 1
   },
   {
     "name": "Công ty CP Đầu tư Finpros",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 1,
+    "studentRegister": 3,
     "studentAccepted": 0
   },
   {
