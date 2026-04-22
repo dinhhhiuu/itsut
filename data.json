@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 167,
+    "studentRegister": 166,
     "studentAccepted": 0
   },
   {
@@ -73,14 +73,14 @@
     "name": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 20,
+    "studentRegister": 24,
     "studentAccepted": 0
   },
   {
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 1
   },
   {
@@ -101,21 +101,21 @@
     "name": "Trung tâm Giải pháp Miền Nam – Tổng Công ty Giải pháp Doanh nghiệp Viettel (VTS)",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 89,
+    "studentRegister": 90,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 9,
+    "studentRegister": 10,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN TGL SOLUTIONS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 16,
+    "studentRegister": 15,
     "studentAccepted": 0
   },
   {
@@ -150,7 +150,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 27,
+    "studentRegister": 28,
     "studentAccepted": 29
   },
   {
@@ -192,7 +192,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -269,7 +269,7 @@
     "name": "Công ty TNHH Bioturing Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 13,
+    "studentRegister": 15,
     "studentAccepted": 0
   },
   {
@@ -283,7 +283,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 63,
+    "studentRegister": 62,
     "studentAccepted": 5
   },
   {
@@ -549,7 +549,7 @@
     "name": "Công ty TNHH Công nghệ và Giải pháp Omega",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 0
   },
   {
