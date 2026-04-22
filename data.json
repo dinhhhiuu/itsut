@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 45,
+    "studentRegister": 46,
     "studentAccepted": 4
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 166,
+    "studentRegister": 167,
     "studentAccepted": 0
   },
   {
@@ -73,21 +73,21 @@
     "name": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 16,
+    "studentRegister": 20,
     "studentAccepted": 0
   },
   {
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 16,
+    "studentRegister": 15,
     "studentAccepted": 1
   },
   {
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 44,
+    "studentRegister": 45,
     "studentAccepted": 0
   },
   {
@@ -101,21 +101,21 @@
     "name": "Trung tâm Giải pháp Miền Nam – Tổng Công ty Giải pháp Doanh nghiệp Viettel (VTS)",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 90,
+    "studentRegister": 89,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 6,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN TGL SOLUTIONS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 15,
+    "studentRegister": 16,
     "studentAccepted": 0
   },
   {
@@ -150,7 +150,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 28,
+    "studentRegister": 27,
     "studentAccepted": 29
   },
   {
@@ -269,7 +269,7 @@
     "name": "Công ty TNHH Bioturing Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 14,
+    "studentRegister": 13,
     "studentAccepted": 0
   },
   {
@@ -283,35 +283,35 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 64,
+    "studentRegister": 63,
     "studentAccepted": 5
   },
   {
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
-    "studentAccepted": 4
+    "studentRegister": 22,
+    "studentAccepted": 5
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
     "name": "Công ty Cổ phần An ninh mạng THD",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 21,
+    "studentRegister": 20,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 7,
+    "studentRegister": 6,
     "studentAccepted": 7
   },
   {
@@ -563,7 +563,7 @@
     "name": "Công ty CP Đầu tư Finpros",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 3,
+    "studentRegister": 4,
     "studentAccepted": 0
   },
   {
