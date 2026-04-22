@@ -213,7 +213,7 @@
     "name": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
@@ -311,8 +311,8 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 6,
-    "studentAccepted": 7
+    "studentRegister": 5,
+    "studentAccepted": 8
   },
   {
     "name": "Công ty TNHH CODE LEAP",
@@ -381,7 +381,7 @@
     "name": "Công ty TNHH NOVAHA",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
