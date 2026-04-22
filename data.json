@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 46,
+    "studentRegister": 45,
     "studentAccepted": 4
   },
   {
@@ -52,7 +52,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -73,7 +73,7 @@
     "name": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 24,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -108,7 +108,7 @@
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
@@ -122,7 +122,7 @@
     "name": "Công ty TNHH atWare Việt Nam",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 2,
     "studentAccepted": 1
   },
   {
@@ -199,7 +199,7 @@
     "name": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
@@ -220,14 +220,14 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH DATALOGIC VIỆT NAM",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 0
   },
   {
@@ -262,7 +262,7 @@
     "name": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 2
   },
   {
@@ -283,21 +283,21 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 62,
+    "studentRegister": 61,
     "studentAccepted": 5
   },
   {
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 22,
+    "studentRegister": 21,
     "studentAccepted": 5
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 28,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -325,7 +325,7 @@
     "name": "Công ty CP Công nghệ SIGINX",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 6
   },
   {
@@ -451,8 +451,8 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 24,
-    "studentAccepted": 10
+    "studentRegister": 23,
+    "studentAccepted": 11
   },
   {
     "name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ GIẢI PHÁP TEANIS",
@@ -556,14 +556,14 @@
     "name": "CÔNG TY CỔ PHẦN ĐẦU TƯ GLOBALTECH",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 1
   },
   {
     "name": "Công ty CP Đầu tư Finpros",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
