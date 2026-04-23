@@ -17,7 +17,7 @@
     "name": "Công ty TNHH MTV Phương Đông Linh Hoạt Việt Nam (East Agile - EA)",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -45,7 +45,7 @@
     "name": "NUS TECHNOLOGY",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 0
   },
   {
@@ -59,7 +59,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 28,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -87,7 +87,7 @@
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 13,
+    "studentRegister": 14,
     "studentAccepted": 1
   },
   {
@@ -108,7 +108,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
@@ -129,21 +129,21 @@
     "name": "CÔNG TY CỔ PHẦN TGL SOLUTIONS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 18,
+    "studentRegister": 19,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH atWare Việt Nam",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 2,
+    "studentRegister": 0,
     "studentAccepted": 1
   },
   {
     "name": "Công ty Cổ phần NCCPLUS",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -164,7 +164,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 32
   },
   {
@@ -178,7 +178,7 @@
     "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 6
   },
   {
@@ -241,7 +241,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -276,7 +276,7 @@
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 0
   },
   {
@@ -304,7 +304,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 61,
+    "studentRegister": 60,
     "studentAccepted": 5
   },
   {
@@ -318,7 +318,7 @@
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -332,7 +332,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 6,
+    "studentRegister": 7,
     "studentAccepted": 8
   },
   {
@@ -500,7 +500,7 @@
     "name": "CÔNG TY TNHH ROBO-HI VIỆT NAM",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 7,
     "studentAccepted": 0
   },
   {
@@ -556,7 +556,7 @@
     "name": "Công ty CP DV ATTT TP.HCM",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1
   },
   {
@@ -605,7 +605,7 @@
     "name": "Công ty TNHH SoftwareOne Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -619,7 +619,7 @@
     "name": "Công ty TNHH Kỹ Thuật Số Tyme (“GoTymeX”)",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 1,
+    "studentRegister": 3,
     "studentAccepted": 0
   },
   {
