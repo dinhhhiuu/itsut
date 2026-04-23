@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 4
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 169,
+    "studentRegister": 167,
     "studentAccepted": 0
   },
   {
@@ -42,6 +42,13 @@
     "studentAccepted": 0
   },
   {
+    "name": "NUS TECHNOLOGY",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 2,
+    "studentAccepted": 0
+  },
+  {
     "name": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
@@ -52,7 +59,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
@@ -80,7 +87,7 @@
     "name": "Công Ty Cổ Phần R2S",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 14,
+    "studentRegister": 13,
     "studentAccepted": 1
   },
   {
@@ -88,6 +95,13 @@
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
     "studentRegister": 44,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công Ty TNHH GeoTech Hub Việt Nam (GeoComply)",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0
   },
   {
@@ -101,14 +115,14 @@
     "name": "Trung tâm Giải pháp Miền Nam – Tổng Công ty Giải pháp Doanh nghiệp Viettel (VTS)",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 90,
+    "studentRegister": 88,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 12,
+    "studentRegister": 13,
     "studentAccepted": 0
   },
   {
@@ -129,7 +143,7 @@
     "name": "Công ty Cổ phần NCCPLUS",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
@@ -150,7 +164,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 27,
+    "studentRegister": 29,
     "studentAccepted": 32
   },
   {
@@ -213,14 +227,21 @@
     "name": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 11,
+    "studentRegister": 12,
+    "studentAccepted": 0
+  },
+  {
+    "name": "TRUNG TÂM GIẢI PHÁP DỮ LIỆU SỐ ĐA NGÀNH - CHI NHÁNH CÔNG TY CÔNG NGHỆ THÔNG TIN VNPT",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -283,21 +304,21 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 60,
+    "studentRegister": 61,
     "studentAccepted": 5
   },
   {
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 21,
+    "studentRegister": 19,
     "studentAccepted": 5
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 28,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -325,7 +346,7 @@
     "name": "Công ty CP Công nghệ SIGINX",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 6
   },
   {
@@ -451,7 +472,7 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 23,
+    "studentRegister": 22,
     "studentAccepted": 11
   },
   {
@@ -479,22 +500,22 @@
     "name": "CÔNG TY TNHH ROBO-HI VIỆT NAM",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH DỊCH VỤ DFC FLOW",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0
+    "studentRegister": 0,
+    "studentAccepted": 1
   },
   {
     "name": "Sustainable Textile Solutions Corporation",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0
+    "studentRegister": 0,
+    "studentAccepted": 1
   },
   {
     "name": "CÔNG TY CỔ PHẦN PHẦN MỀM PATSOFT",
@@ -528,8 +549,8 @@
     "name": "CÔNG TY TNHH GIẢI PHÁP KỸ THUẬT CMN",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0
+    "studentRegister": 0,
+    "studentAccepted": 1
   },
   {
     "name": "Công ty CP DV ATTT TP.HCM",
@@ -543,7 +564,7 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0
+    "studentAccepted": 1
   },
   {
     "name": "Công ty TNHH Công nghệ và Giải pháp Omega",
@@ -563,7 +584,7 @@
     "name": "Công ty CP Đầu tư Finpros",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 6,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
@@ -574,10 +595,38 @@
     "studentAccepted": 0
   },
   {
+    "name": "Công Ty TNHH Phát Triển Phần Mềm Và Dịch Vụ Relia",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty TNHH SoftwareOne Việt Nam",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 4,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công Ty TNHH Giải Pháp Tiên Khanh",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty TNHH Kỹ Thuật Số Tyme (“GoTymeX”)",
+    "maxAcceptedStudent": 15,
+    "maxRegister": 45,
+    "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
     "name": "Công ty TNHH Công Nghệ Vio",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 4,
     "studentAccepted": 0
   }
 ]
