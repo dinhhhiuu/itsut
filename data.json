@@ -115,7 +115,7 @@
     "name": "Trung tâm Giải pháp Miền Nam – Tổng Công ty Giải pháp Doanh nghiệp Viettel (VTS)",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 89,
+    "studentRegister": 90,
     "studentAccepted": 0
   },
   {
@@ -136,7 +136,7 @@
     "name": "Công ty TNHH atWare Việt Nam",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1
   },
   {
@@ -591,7 +591,7 @@
     "name": "National University of Singapore – School of Computing (NUS SoC)",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0
   },
   {
