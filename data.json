@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 43,
+    "studentRegister": 44,
     "studentAccepted": 4
   },
   {
@@ -17,14 +17,14 @@
     "name": "Công ty TNHH MTV Phương Đông Linh Hoạt Việt Nam (East Agile - EA)",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 165,
+    "studentRegister": 167,
     "studentAccepted": 0
   },
   {
@@ -59,7 +59,7 @@
     "name": "Công ty Cổ Phần Cohota",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 27,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
@@ -122,14 +122,14 @@
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 12,
+    "studentRegister": 13,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN TGL SOLUTIONS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 19,
+    "studentRegister": 20,
     "studentAccepted": 0
   },
   {
@@ -171,7 +171,7 @@
     "name": "CÔNG TY CỔ PHẦN TECHLAB",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 0
   },
   {
@@ -241,7 +241,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
@@ -311,14 +311,14 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 19,
+    "studentRegister": 18,
     "studentAccepted": 5
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
@@ -472,7 +472,7 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 22,
+    "studentRegister": 23,
     "studentAccepted": 11
   },
   {
@@ -605,7 +605,7 @@
     "name": "Công ty TNHH SoftwareOne Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
@@ -619,14 +619,14 @@
     "name": "Công ty TNHH Kỹ Thuật Số Tyme (“GoTymeX”)",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH Công Nghệ Vio",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   }
 ]
