@@ -17,14 +17,14 @@
     "name": "Công ty TNHH MTV Phương Đông Linh Hoạt Việt Nam (East Agile - EA)",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 166,
+    "studentRegister": 165,
     "studentAccepted": 0
   },
   {
@@ -94,7 +94,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 43,
+    "studentRegister": 42,
     "studentAccepted": 0
   },
   {
@@ -122,7 +122,7 @@
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 13,
+    "studentRegister": 12,
     "studentAccepted": 0
   },
   {
@@ -192,7 +192,7 @@
     "name": "Công ty TNHH OpenWay Việt Nam (OW)",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 1
   },
   {
@@ -332,7 +332,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 8
   },
   {
@@ -605,7 +605,7 @@
     "name": "Công ty TNHH SoftwareOne Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 6,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -619,14 +619,14 @@
     "name": "Công ty TNHH Kỹ Thuật Số Tyme (“GoTymeX”)",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 3,
+    "studentRegister": 4,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH Công Nghệ Vio",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0
   }
 ]
