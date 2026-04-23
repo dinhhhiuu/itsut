@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 44,
+    "studentRegister": 43,
     "studentAccepted": 4
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 167,
+    "studentRegister": 166,
     "studentAccepted": 0
   },
   {
@@ -94,7 +94,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 44,
+    "studentRegister": 43,
     "studentAccepted": 0
   },
   {
@@ -108,7 +108,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -129,7 +129,7 @@
     "name": "CÔNG TY CỔ PHẦN TGL SOLUTIONS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 0
   },
   {
@@ -164,7 +164,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 29,
+    "studentRegister": 26,
     "studentAccepted": 32
   },
   {
@@ -192,7 +192,7 @@
     "name": "Công ty TNHH OpenWay Việt Nam (OW)",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 1
   },
   {
@@ -241,7 +241,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -332,7 +332,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 8
   },
   {
@@ -605,14 +605,14 @@
     "name": "Công ty TNHH SoftwareOne Việt Nam",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
     "name": "Công Ty TNHH Giải Pháp Tiên Khanh",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 1,
+    "studentRegister": 3,
     "studentAccepted": 0
   },
   {
