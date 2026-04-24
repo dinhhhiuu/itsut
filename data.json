@@ -192,7 +192,7 @@
     "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 6
   },
   {
@@ -458,7 +458,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 25,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -493,7 +493,7 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 23,
+    "studentRegister": 24,
     "studentAccepted": 11
   },
   {
