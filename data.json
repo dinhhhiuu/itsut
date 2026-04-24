@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 165,
+    "studentRegister": 164,
     "studentAccepted": 0
   },
   {
@@ -80,7 +80,7 @@
     "name": "Viễn Thông TP.HCM (VNPT.TPHCM) - Tập đoàn Bưu chính Viễn thông Việt Nam",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 0
   },
   {
@@ -129,7 +129,7 @@
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 14,
+    "studentRegister": 13,
     "studentAccepted": 0
   },
   {
@@ -220,7 +220,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -550,7 +550,7 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0
+    "studentAccepted": 1
   },
   {
     "name": "CÔNG TY TNHH BIZNES",
