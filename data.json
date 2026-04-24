@@ -101,7 +101,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0
   },
   {
@@ -150,7 +150,7 @@
     "name": "CÔNG TY TNHH AMPERE COMPUTING VIỆT NAM",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
@@ -353,7 +353,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 8
   },
   {
@@ -458,7 +458,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
@@ -647,7 +647,7 @@
     "name": "Công ty TNHH Công Nghệ Vio",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
