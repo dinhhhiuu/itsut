@@ -3,7 +3,7 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 43,
+    "studentRegister": 41,
     "studentAccepted": 4
   },
   {
@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 169,
+    "studentRegister": 165,
     "studentAccepted": 0
   },
   {
@@ -45,7 +45,7 @@
     "name": "NUS TECHNOLOGY",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
@@ -101,7 +101,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 43,
+    "studentRegister": 45,
     "studentAccepted": 0
   },
   {
@@ -157,7 +157,7 @@
     "name": "Công ty Cổ phần NCCPLUS",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0
   },
   {
@@ -178,7 +178,7 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 22,
+    "studentRegister": 21,
     "studentAccepted": 34
   },
   {
@@ -241,7 +241,7 @@
     "name": "CÔNG TY TNHH MỘT THÀNH VIÊN PHÁT TRIỂN CÔNG VIÊN PHẦN MỀM QUANG TRUNG",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
@@ -332,14 +332,14 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 15,
-    "studentAccepted": 5
+    "studentRegister": 14,
+    "studentAccepted": 6
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 25,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -458,7 +458,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 27,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -647,7 +647,7 @@
     "name": "Công ty TNHH Công Nghệ Vio",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 0
   },
   {
