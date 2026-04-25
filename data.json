@@ -66,7 +66,7 @@
     "name": "CÔNG TY CỔ PHẦN GIHOT",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 10,
+    "studentRegister": 9,
     "studentAccepted": 2
   },
   {
@@ -129,7 +129,7 @@
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 12,
+    "studentRegister": 13,
     "studentAccepted": 0
   },
   {
