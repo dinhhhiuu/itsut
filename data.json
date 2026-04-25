@@ -80,7 +80,7 @@
     "name": "Viễn Thông TP.HCM (VNPT.TPHCM) - Tập đoàn Bưu chính Viễn thông Việt Nam",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0
   },
   {
@@ -115,7 +115,7 @@
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 25,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -458,7 +458,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 0
   },
   {
