@@ -325,7 +325,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 59,
+    "studentRegister": 58,
     "studentAccepted": 5
   },
   {
@@ -640,7 +640,7 @@
     "name": "Công ty TNHH Kỹ Thuật Số Tyme (“GoTymeX”)",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 13,
+    "studentRegister": 14,
     "studentAccepted": 0
   },
   {
