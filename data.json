@@ -101,7 +101,7 @@
     "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 45,
+    "studentRegister": 44,
     "studentAccepted": 0
   },
   {
@@ -122,14 +122,14 @@
     "name": "Trung tâm Giải pháp Miền Nam – Tổng Công ty Giải pháp Doanh nghiệp Viettel (VTS)",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 90,
+    "studentRegister": 89,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0
   },
   {
@@ -332,14 +332,14 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 16,
+    "studentRegister": 6,
     "studentAccepted": 6
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 25,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -458,7 +458,7 @@
     "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 25,
+    "studentRegister": 23,
     "studentAccepted": 0
   },
   {
@@ -493,7 +493,7 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 24,
+    "studentRegister": 25,
     "studentAccepted": 11
   },
   {
@@ -662,7 +662,7 @@
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
     "studentRegister": 0,
-    "studentAccepted": 0
+    "studentAccepted": 1
   },
   {
     "name": "Khu Công nghệ Phần mềm ĐHQG-HCM (ITP)",
