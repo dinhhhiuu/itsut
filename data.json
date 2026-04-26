@@ -178,8 +178,8 @@
     "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 20,
-    "studentAccepted": 34
+    "studentRegister": 19,
+    "studentAccepted": 35
   },
   {
     "name": "CÔNG TY CỔ PHẦN TECHLAB",
@@ -353,7 +353,7 @@
     "name": "Công ty TNHH T4 Tek",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 8
   },
   {
@@ -577,7 +577,7 @@
     "name": "Công ty CP DV ATTT TP.HCM",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 1
   },
   {
