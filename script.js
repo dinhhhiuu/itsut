@@ -94,4 +94,3 @@ function sortByRegister() {
 
 // ================= AUTO =================
 fetchData();
-setInterval(fetchData, 60000);
