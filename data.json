@@ -24,7 +24,7 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 167,
+    "studentRegister": 168,
     "studentAccepted": 0
   },
   {
@@ -164,7 +164,7 @@
     "name": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 18,
+    "studentRegister": 17,
     "studentAccepted": 0
   },
   {
@@ -227,7 +227,7 @@
     "name": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -332,8 +332,8 @@
     "name": "CÔNG TY TNHH NOBIWARE",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 6,
-    "studentAccepted": 6
+    "studentRegister": 5,
+    "studentAccepted": 7
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
@@ -640,7 +640,7 @@
     "name": "Công ty TNHH Kỹ Thuật Số Tyme (“GoTymeX”)",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0
   },
   {
