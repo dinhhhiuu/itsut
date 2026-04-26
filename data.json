@@ -3,8 +3,15 @@
     "name": "Công ty TNHH HORUSOFTACEAE",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 60,
-    "studentAccepted": 1
+    "studentRegister": 40,
+    "studentAccepted": 4
+  },
+  {
+    "name": "Công ty TNHH Sorimachi Việt Nam (SRMC VN)",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 6,
+    "studentRegister": 6,
+    "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH MTV Phương Đông Linh Hoạt Việt Nam (East Agile - EA)",
@@ -17,7 +24,14 @@
     "name": "Công ty TNHH Phần Mềm FPT Hồ Chí Minh",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 108,
+    "studentRegister": 168,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty TNHH Công nghệ Thông tin Aureole",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 9,
     "studentAccepted": 0
   },
   {
@@ -28,24 +42,80 @@
     "studentAccepted": 0
   },
   {
+    "name": "NUS TECHNOLOGY",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 6,
+    "studentAccepted": 0
+  },
+  {
     "name": "Công ty Cổ Phần Công Nghệ Và Ứng Dụng DSV (Designveloper)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 19,
+    "studentRegister": 25,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty Cổ Phần Cohota",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 30,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN GIHOT",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
+    "studentRegister": 6,
+    "studentAccepted": 2
+  },
+  {
+    "name": "Công ty TNHH Cube System Việt Nam",
+    "maxAcceptedStudent": 4,
+    "maxRegister": 12,
+    "studentRegister": 10,
     "studentAccepted": 0
+  },
+  {
+    "name": "Viễn Thông TP.HCM (VNPT.TPHCM) - Tập đoàn Bưu chính Viễn thông Việt Nam",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 2,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty Cổ phần Bản Viên (Ban Vien Corporation) - BV",
+    "maxAcceptedStudent": 9,
+    "maxRegister": 27,
+    "studentRegister": 27,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công Ty Cổ Phần R2S",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 13,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN SUN.STUDIO",
+    "maxAcceptedStudent": 15,
+    "maxRegister": 45,
+    "studentRegister": 44,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công Ty TNHH GeoTech Hub Việt Nam (GeoComply)",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 3,
+    "studentRegister": 0,
+    "studentAccepted": 3
   },
   {
     "name": "Công Ty TNHH Casso",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 26,
     "studentAccepted": 0
   },
   {
@@ -56,7 +126,35 @@
     "studentAccepted": 0
   },
   {
+    "name": "CÔNG TY CỔ PHẦN KỸ THUẬT ĐIỆN TOÁN BÁCH KHOA",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 15,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN TGL SOLUTIONS",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 21,
+    "studentAccepted": 0
+  },
+  {
     "name": "Công ty TNHH atWare Việt Nam",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 6,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY TNHH AMPERE COMPUTING VIỆT NAM",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 9,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty Cổ phần NCCPLUS",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
     "studentRegister": 6,
@@ -66,8 +164,22 @@
     "name": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 18,
+    "studentRegister": 17,
     "studentAccepted": 0
+  },
+  {
+    "name": "Bosch 1 - Bosch Global Software Technologies Company Limited  (BGSW)",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 2,
+    "studentRegister": 0,
+    "studentAccepted": 2
+  },
+  {
+    "name": "Tập đoàn Công nghiệp - Viễn thông Quân đội (Viettel Group)",
+    "maxAcceptedStudent": 800,
+    "maxRegister": 2400,
+    "studentRegister": 19,
+    "studentAccepted": 35
   },
   {
     "name": "CÔNG TY CỔ PHẦN TECHLAB",
@@ -77,38 +189,80 @@
     "studentAccepted": 0
   },
   {
+    "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
+    "maxAcceptedStudent": 100,
+    "maxRegister": 300,
+    "studentRegister": 4,
+    "studentAccepted": 6
+  },
+  {
+    "name": "Công ty Digitech Solutions",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
     "name": "Công ty TNHH OpenWay Việt Nam (OW)",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
-    "studentAccepted": 0
+    "studentRegister": 7,
+    "studentAccepted": 1
   },
   {
     "name": "Sorimachi - Nhật Bản (SRMC JP)",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 28,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH Phần mềm FPT Hồ Chí Minh - Tập đoàn FPT",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 8,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY CỔ PHÀN CHẾ BIẾN THỦY SẢN TÀI KIM ANH",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY TNHH MỘT THÀNH VIÊN PHÁT TRIỂN CÔNG VIÊN PHẦN MỀM QUANG TRUNG",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN KHOA HỌC KỸ THUẬT PHƯỢNG HẢI",
+    "maxAcceptedStudent": 4,
+    "maxRegister": 12,
+    "studentRegister": 12,
+    "studentAccepted": 0
+  },
+  {
+    "name": "TRUNG TÂM GIẢI PHÁP DỮ LIỆU SỐ ĐA NGÀNH - CHI NHÁNH CÔNG TY CÔNG NGHỆ THÔNG TIN VNPT",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -122,7 +276,7 @@
     "name": "JMACSOFT Corp. (Nhật Bản)",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0
   },
   {
@@ -136,14 +290,14 @@
     "name": "Phòng thí nghiệm nghiên cứu về nước khu vực châu Á (CARE)",
     "maxAcceptedStudent": 1,
     "maxRegister": 3,
-    "studentRegister": 3,
-    "studentAccepted": 0
+    "studentRegister": 0,
+    "studentAccepted": 1
   },
   {
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 4,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
@@ -151,31 +305,73 @@
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
     "studentRegister": 15,
-    "studentAccepted": 0
+    "studentAccepted": 2
+  },
+  {
+    "name": "Công ty TNHH Bioturing Việt Nam",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 14,
+    "studentAccepted": 1
   },
   {
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
-    "maxAcceptedStudent": 2,
-    "maxRegister": 6,
-    "studentRegister": 6,
-    "studentAccepted": 0
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 5,
+    "studentAccepted": 2
+  },
+  {
+    "name": "Công ty TNHH EyeCode Tech",
+    "maxAcceptedStudent": 25,
+    "maxRegister": 75,
+    "studentRegister": 57,
+    "studentAccepted": 5
+  },
+  {
+    "name": "CÔNG TY TNHH NOBIWARE",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 5,
+    "studentAccepted": 7
   },
   {
     "name": "CÔNG TY TNHH DOCUMENT EASY",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 26,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty Cổ phần An ninh mạng THD",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 21,
     "studentAccepted": 0
   },
   {
     "name": "Công ty TNHH T4 Tek",
-    "maxAcceptedStudent": 5,
-    "maxRegister": 15,
-    "studentRegister": 14,
-    "studentAccepted": 0
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 7,
+    "studentAccepted": 8
   },
   {
     "name": "Công ty TNHH CODE LEAP",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Công ty CP Công nghệ SIGINX",
+    "maxAcceptedStudent": 6,
+    "maxRegister": 18,
+    "studentRegister": 0,
+    "studentAccepted": 6
+  },
+  {
+    "name": "Công ty Cổ phần Hitek Solution",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 1,
@@ -185,14 +381,14 @@
     "name": "CÔNG TY TNHH CRAFT BOTS",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 12,
-    "studentAccepted": 3
+    "studentRegister": 2,
+    "studentAccepted": 4
   },
   {
     "name": "CUBS co.,ltd",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0
   },
   {
@@ -214,7 +410,7 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0
+    "studentAccepted": 1
   },
   {
     "name": "CÔNG TY CỔ PHẦN TRUERACE",
@@ -243,5 +439,236 @@
     "maxRegister": 1,
     "studentRegister": 0,
     "studentAccepted": 1
+  },
+  {
+    "name": "College of Engineering, National Chung Cheng University (CCU)",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Tig Dev Division",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN SKYLINK STUDIO (SLS)",
+    "maxAcceptedStudent": 9,
+    "maxRegister": 27,
+    "studentRegister": 23,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công Ty TNHH Jastech",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Trung tâm Kinh doanh Giải pháp số - MobiFone Lâm Đồng",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Công Ty TNHH Quả Trứng Thủy Tinh (GlassEgg)",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY TNHH SẢN XUẤT – THƯƠNG MẠI – DỊCH VỤ - XUẤT NHẬP KHẨU ĐĂNG PHONG",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 24,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
+    "maxAcceptedStudent": 15,
+    "maxRegister": 45,
+    "studentRegister": 25,
+    "studentAccepted": 11
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VÀ GIẢI PHÁP TEANIS",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Nagaoka University of Technology",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Trung tâm Công nghệ Thông tin và Địa không gian Thành phố Hồ Chí Minh",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY TNHH ROBO-HI VIỆT NAM",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 9,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY TNHH DỊCH VỤ DFC FLOW",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Sustainable Textile Solutions Corporation",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN PHẦN MỀM PATSOFT",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Công ty CP ERP Việt",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY TNHH BIZNES",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY TNHH COVERGO VIỆT NAM",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "CÔNG TY TNHH GIẢI PHÁP KỸ THUẬT CMN",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Công ty CP DV ATTT TP.HCM",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 6,
+    "studentRegister": 3,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Công ty TNHH Công nghệ Phan Minh",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Công ty TNHH Công nghệ và Giải pháp Omega",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 6,
+    "studentRegister": 4,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN ĐẦU TƯ GLOBALTECH",
+    "maxAcceptedStudent": 4,
+    "maxRegister": 12,
+    "studentRegister": 5,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Công ty CP Đầu tư Finpros",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 9,
+    "studentAccepted": 0
+  },
+  {
+    "name": "National University of Singapore – School of Computing (NUS SoC)",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 2,
+    "studentRegister": 0,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công Ty TNHH Phát Triển Phần Mềm Và Dịch Vụ Relia",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty TNHH SoftwareOne Việt Nam",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 15,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công Ty TNHH Giải Pháp Tiên Khanh",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 4,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty TNHH Kỹ Thuật Số Tyme (“GoTymeX”)",
+    "maxAcceptedStudent": 15,
+    "maxRegister": 45,
+    "studentRegister": 16,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Công ty TNHH Công Nghệ Vio",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 6,
+    "studentRegister": 6,
+    "studentAccepted": 0
+  },
+  {
+    "name": "CÔNG TY TNHH MỘT THÀNH VIÊN YS VINA",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0
+  },
+  {
+    "name": "Zyntelligent Co., Ltd.",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 2,
+    "studentRegister": 0,
+    "studentAccepted": 1
+  },
+  {
+    "name": "Khu Công nghệ Phần mềm ĐHQG-HCM (ITP)",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0
   }
 ]
