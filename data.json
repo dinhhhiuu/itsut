@@ -73,7 +73,7 @@
     "name": "Công ty TNHH Cube System Việt Nam",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 9,
+    "studentRegister": 10,
     "studentAccepted": 0
   },
   {
@@ -122,7 +122,7 @@
     "name": "Trung tâm Giải pháp Miền Nam – Tổng Công ty Giải pháp Doanh nghiệp Viettel (VTS)",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 89,
+    "studentRegister": 90,
     "studentAccepted": 0
   },
   {
@@ -192,7 +192,7 @@
     "name": "Công ty TNHH Giải pháp Phần mềm Tường Minh Bình Định",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 3,
+    "studentRegister": 4,
     "studentAccepted": 6
   },
   {
@@ -220,7 +220,7 @@
     "name": "CÔNG TY CP GIẢI PHÁP CÔNG NGHỆ TRUYỀN THÔNG ĐA PHƯƠNG TIỆN SÁNG KIẾN (IMT SOLUTIONS)",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 30,
+    "studentRegister": 29,
     "studentAccepted": 0
   },
   {
@@ -262,7 +262,7 @@
     "name": "CÔNG TY TNHH R&I LABS",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0
   },
   {
@@ -297,14 +297,14 @@
     "name": "Chi nhánh Công ty TNHH Phần mềm FPT Hồ Chí Minh tại Nha Trang, Tập đoàn FPT",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 0
   },
   {
     "name": "CÔNG TY CỔ PHẦN GOLDEN OWL SOLUTIONS",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 2
   },
   {
@@ -325,7 +325,7 @@
     "name": "Công ty TNHH EyeCode Tech",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 58,
+    "studentRegister": 57,
     "studentAccepted": 5
   },
   {
@@ -591,7 +591,7 @@
     "name": "Công ty TNHH Công nghệ và Giải pháp Omega",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 3,
+    "studentRegister": 4,
     "studentAccepted": 0
   },
   {
