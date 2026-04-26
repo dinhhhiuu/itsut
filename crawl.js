@@ -8,7 +8,7 @@ async function fetchData() {
   const listRes = await fetch(`${BASE}/home/company/all`);
   const listData = await listRes.json();
 
-  const companies = listData.items;
+  const companies = listData.items.reverse();  
   const results = [];
 
   for (const c of companies) {
@@ -17,14 +17,46 @@ async function fetchData() {
       const detail = await res.json();
       const item = detail.item;
 
+      // ===== LẤY FILE MỚI NHẤT =====
+      let fileObj = null;
+      const list = item.internshipFiles || [];
+
+      if (list.length > 0) {
+        // ưu tiên PDF mới nhất nếu có
+        const pdfFiles = list.filter(f => f.name.toLowerCase().endsWith(".pdf"));
+
+        if (pdfFiles.length > 0) {
+          fileObj = pdfFiles[pdfFiles.length - 1];
+        } else {
+          // nếu không có PDF → lấy file cuối
+          fileObj = list[list.length - 1];
+        }
+      }
+
+      const files = fileObj
+        ? [{
+            name: fileObj.name,
+            url: BASE + fileObj.path
+          }]
+        : [];
+
+      // ===== PUSH DATA =====
       results.push({
         name: c.fullname,
+        address: item.address || "Không có",
+        logo: BASE + item.image,
+
         maxAcceptedStudent: item.maxAcceptedStudent,
         maxRegister: item.maxRegister,
         studentRegister: item.studentRegister,
-        studentAccepted: item.studentAccepted
+        studentAccepted: item.studentAccepted,
+
+        files
       });
-    } catch {}
+
+    } catch (e) {
+      console.log("Error:", c._id);
+    }
   }
 
   return results;
@@ -37,9 +69,7 @@ async function sendDiscord(message) {
   await fetch(WEBHOOK, {
     method: "POST",
     headers: { "Content-Type": "application/json" },
-    body: JSON.stringify({
-      content: message
-    })
+    body: JSON.stringify({ content: message })
   });
 }
 
@@ -52,7 +82,6 @@ async function main() {
     oldData = JSON.parse(fs.readFileSync("data.json"));
   }
 
-  // ================= CHECK CHANGE =================
   if (JSON.stringify(oldData) === JSON.stringify(newData)) {
     console.log("No change");
     return;
@@ -60,9 +89,10 @@ async function main() {
 
   console.log("Data changed!");
 
-  // ================= DISCORD: ONLY AVAILABLE =================
+  // ===== CHỈ LẤY CÔNG TY CÒN SLOT =====
   const available = newData.filter(c =>
-    c.studentRegister < c.maxRegister && c.maxAcceptedStudent > c.studentAccepted
+    c.studentRegister < c.maxRegister &&
+    c.maxAcceptedStudent > c.studentAccepted
   );
 
   if (available.length > 0) {
@@ -73,7 +103,6 @@ async function main() {
     await sendDiscord(msg);
   }
 
-  // ================= SAVE FULL DATA FOR WEB =================
   fs.writeFileSync("data.json", JSON.stringify(newData, null, 2));
 }
 

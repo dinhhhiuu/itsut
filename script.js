@@ -2,7 +2,7 @@ const tbody = document.getElementById("table-body");
 
 let allData = [];
 
-// ================= FETCH DATA =================
+// ================= FETCH =================
 async function fetchData() {
   showLoading();
 
@@ -13,9 +13,8 @@ async function fetchData() {
     allData = data;
     render(allData);
 
-  } catch (err) {
-    tbody.innerHTML = `<tr><td colspan="5">Error loading data</td></tr>`;
-    console.error(err);
+  } catch {
+    tbody.innerHTML = `<tr><td colspan="7">Error</td></tr>`;
   }
 }
 
@@ -23,52 +22,76 @@ async function fetchData() {
 function render(data) {
   tbody.innerHTML = "";
 
-  if (data.length === 0) {
-    tbody.innerHTML = `<tr><td colspan="5">No data</td></tr>`;
-    return;
-  }
-
   data.forEach(c => {
     const tr = document.createElement("tr");
 
-    // highlight full slot
     if (c.studentRegister >= c.maxRegister) {
       tr.classList.add("full");
     }
 
+    const filesHTML = (c.files && c.files.length > 0)
+      ? c.files.map(f => `
+          <button onclick="viewFile('${f.url}')">Xem</button>
+        `).join("")
+      : "Không có";
+
     tr.innerHTML = `
-      <td>${c.name}</td>
+      <td>
+        <img src="${c.logo}" width="50"><br>
+        ${c.name}
+      </td>
+      <td>${c.address}</td>
       <td>${c.maxAcceptedStudent}</td>
       <td>${c.maxRegister}</td>
       <td>${c.studentRegister}</td>
       <td>${c.studentAccepted}</td>
+      <td>${filesHTML}</td>
     `;
 
     tbody.appendChild(tr);
   });
 }
 
-// ================= LOADING =================
+// ================= POPUP =================
+function viewFile(url) {
+  console.log("OPEN:", url); // debug
+
+  // PDF → popup
+  if (url.toLowerCase().endsWith(".pdf")) {
+    const iframe = document.getElementById("viewer");
+    const popup = document.getElementById("popup");
+
+    iframe.src = url;
+    popup.style.display = "block";
+  } 
+  // DOCX → MỞ TAB (KHÔNG iframe)
+  else {
+    window.open(url, "_blank");
+  }
+}
+function closePopup() {
+  document.getElementById("popup").style.display = "none";
+  document.getElementById("viewer").src = "";
+}
+
+window.onclick = function(e) {
+  const popup = document.getElementById("popup");
+  if (e.target === popup) closePopup();
+};
+
+// ================= UI =================
 function showLoading() {
-  tbody.innerHTML = `<tr><td colspan="5">Loading...</td></tr>`;
+  tbody.innerHTML = `<tr><td colspan="7">Loading...</td></tr>`;
 }
 
-// ================= FILTER =================
 function showAvailableOnly() {
-  const filtered = allData.filter(
-    c => c.studentRegister < c.maxRegister && c.maxAcceptedStudent > c.studentAccepted
-  );
-  render(filtered);
+  render(allData.filter(c => c.studentRegister < c.maxRegister));
 }
 
-// ================= SORT =================
 function sortByRegister() {
-  const sorted = [...allData].sort(
-    (a, b) => b.studentRegister - a.studentRegister
-  );
-  render(sorted);
+  render([...allData].sort((a, b) => b.studentRegister - a.studentRegister));
 }
 
-// ================= AUTO REFRESH =================
+// ================= AUTO =================
 fetchData();
-setInterval(fetchData, 60000); // 60 giây
+setInterval(fetchData, 60000);
