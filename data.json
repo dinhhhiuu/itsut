@@ -1,5 +1,80 @@
 [
   {
+    "name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ GIÁO DỤC HOLLA",
+    "address": "44 Nguyễn Bỉnh Khiêm (nối dài), P. Tân Định, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed957a3693d5bcc582f5aa.png?t=42899030",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "HOLLA_D2_TTNT_HK253_2026-04-25.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/69ed957a3693d5bcc582f5aaHOLLA_D2_TTNT_HK253_2026-04-25.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công ty TNHH Leandix",
+    "address": "Số 19, Đường 10, KDC Trung Sơn, xã Bình Hưng, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95793693d5bcc582f5a8.png?t=43033369",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Leandix_D2_TTNT_HK253_2026-04-25.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/69ed95793693d5bcc582f5a8Leandix_D2_TTNT_HK253_2026-04-25.pdf"
+      }
+    ]
+  },
+  {
+    "name": "DNTN SX TM DV Danh Huy Phát",
+    "address": "175/25A Hoàng Minh Chánh, KP. An Hòa, P. Biên Hòa, Đồng Nai",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95783693d5bcc582f5a6.png?t=43209527",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "DHP_D2_TTNT_HK253_2026-04-25.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/69ed95783693d5bcc582f5a6DHP_D2_TTNT_HK253_2026-04-25.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công ty TNHH Amazon Web Services Việt Nam",
+    "address": "Tầng 36, Tòa nhà Bitexco Financial Tower, Số 2 đường Hải Triều, P. Sài Gòn, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95773693d5bcc582f5a4.png?t=43359666",
+    "maxAcceptedStudent": 1000,
+    "maxRegister": 3000,
+    "studentRegister": 6,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "AWS_D2_TTNT_HK253_2026-04-25.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/69ed95773693d5bcc582f5a4AWS_D2_TTNT_HK253_2026-04-25.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công ty Cổ phần Giải pháp công nghệ Trực tuyến Gtel (GTEL OTS)",
+    "address": "385C Nguyễn Trãi, P. Cầu Ông Lãnh, TPHCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95753693d5bcc582f5a2.png?t=43514920",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "GTEL_D2_TTNT_HK253_2026-04-24.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/69ed95753693d5bcc582f5a2GTEL_D2_TTNT_HK253_2026-04-24.docx"
+      }
+    ]
+  },
+  {
     "name": "Khu Công nghệ Phần mềm ĐHQG-HCM (ITP)",
     "address": "Khu phố 33, đường Võ Trường Toản, P. Linh Xuân, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69eacb4acb5b175d914e99f7.png?t=95242144",
@@ -140,7 +215,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e840af1fd2e5ab142d028d.png?t=29163475",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 0,
     "files": [
       {
@@ -635,12 +710,12 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/685cadd5bff0349643c63d86.png?t=05383263",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "Hitek_D2_TTNT_HK253_2026-04-21.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/685cadd5bff0349643c63d86Hitek_D2_TTNT_HK253_2026-04-21.docx"
+        "name": "Hitek_D2_TTNT_HK253_2026-04-28.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/685cadd5bff0349643c63d86Hitek_D2_TTNT_HK253_2026-04-28.pdf"
       }
     ]
   },
@@ -710,7 +785,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/682d881b5d905d4f0dba5717.png?t=14694261",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 25,
+    "studentRegister": 24,
     "studentAccepted": 0,
     "files": [
       {
@@ -785,7 +860,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/680b75ef3890995d799d8ca2.png?t=81903830",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 2,
     "files": [
       {
@@ -806,6 +881,21 @@
       {
         "name": "Fsoft_NT_D2_TTNT_HK253_2026-04-21.pdf",
         "url": "https://internship.cse.hcmut.edu.vn/company/680a24ed3890995d799d8a48Fsoft_NT_D2_TTNT_HK253_2026-04-21.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Trung tâm An toàn thông tin VNPT -  Chi nhánh Công ty Công nghệ thông tin VNPT (VNPT-CI)",
+    "address": "Trung Tâm VNPT-IT Khu Vực 2 - Chi Nhánh Công Ty Công Nghệ Thông Tin VNPT, Số 42 Phạm Ngọc Thạch, Phường Xuân Hòa, TP Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/67ff0dea502455a6d36065a0.png?t=69465466",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 2,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "VNPT-CI_D2_TTNT_HK253_2026-04-24.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/67ff0dea502455a6d36065a0VNPT-CI_D2_TTNT_HK253_2026-04-24.docx"
       }
     ]
   },
@@ -930,6 +1020,21 @@
     ]
   },
   {
+    "name": "UNIT Technology Corporation",
+    "address": "Nikko Building, 374 Võ Văn Tần, P. Bàn Cờ, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6656dd5924c9a126993b7ad2.png?t=68888357",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "UNIT_D2_TTNT_HK253_2026-04-24.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6656dd5924c9a126993b7ad2UNIT_D2_TTNT_HK253_2026-04-24.docx"
+      }
+    ]
+  },
+  {
     "name": "CÔNG TY CỔ PHÀN CHẾ BIẾN THỦY SẢN TÀI KIM ANH",
     "address": "Lô N Khu Công nghiệp An Nghiệp, Xã An Ninh, Thành phố Cần Thơ, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/664fe79a24c9a126993b6ec5.png?t=12774587",
@@ -950,7 +1055,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6635aaa7a36c17e66bd076c5.png?t=93225384",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 0,
     "files": [
       {
@@ -995,7 +1100,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/660b6523d3e9eccc8c61e56a.png?t=24374880",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 8,
+    "studentRegister": 7,
     "studentAccepted": 1,
     "files": [
       {
@@ -1055,7 +1160,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/64530d08e7ad7cc2b72339de.png?t=56722130",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 17,
+    "studentRegister": 16,
     "studentAccepted": 35,
     "files": [
       {
@@ -1190,7 +1295,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/609893d9ee96ff021b97d871.png?t=25567082",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 0,
     "files": [
       {
@@ -1220,7 +1325,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607e305bee96ff021b97ab2e.png?t=58030182",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 43,
+    "studentRegister": 42,
     "studentAccepted": 0,
     "files": [
       {
@@ -1310,7 +1415,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5ecb8c55d1a3a42ea357ddec.png?t=98097864",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 29,
+    "studentRegister": 28,
     "studentAccepted": 0,
     "files": [
       {
@@ -1420,13 +1525,28 @@
     ]
   },
   {
+    "name": "CÔNG TY TNHH BẢO HIỂM NHÂN THỌ DAI-ICHI VIỆT NAM",
+    "address": "149-151 Nguyễn Văn Trỗi, P. Phú Nhuận, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef41202c2e72195b4ce90.png?t=40119777",
+    "maxAcceptedStudent": 6,
+    "maxRegister": 18,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "DLVN_Dai-Ichi_D2_TTNT_HK253_2026-04-24.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/5caef41202c2e72195b4ce90DLVN_Dai-Ichi_D2_TTNT_HK253_2026-04-24.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH HORUSOFTACEAE",
     "address": "766/3G Sư Vạn Hạnh, P. Hòa Hưng, TP.HCM (P.12, Q.10 cũ)",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef41002c2e72195b4ce8c.png?t=29212322",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 40,
-    "studentAccepted": 4,
+    "studentRegister": 36,
+    "studentAccepted": 6,
     "files": [
       {
         "name": "Horus_D2_TTNT_HK253_2026-04-02.pdf",
