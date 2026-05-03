@@ -453,9 +453,9 @@
     "name": "CÔNG TY TNHH CÔNG NGHỆ ANH KHÔI",
     "address": "KDT CityLand, Gò Vấp, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69def9be1fd2e5ab142cf236.png?t=38319343",
-    "maxAcceptedStudent": 15,
-    "maxRegister": 45,
-    "studentRegister": 25,
+    "maxAcceptedStudent": 25,
+    "maxRegister": 75,
+    "studentRegister": 26,
     "studentAccepted": 15,
     "files": [
       {
