@@ -80,7 +80,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95773693d5bcc582f5a4.png?t=43359666",
     "maxAcceptedStudent": 1000,
     "maxRegister": 3000,
-    "studentRegister": 56,
+    "studentRegister": 58,
     "studentAccepted": 0,
     "files": [
       {
@@ -245,7 +245,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e840af1fd2e5ab142d028d.png?t=29163475",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 0,
     "files": [
       {
@@ -560,7 +560,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69def9b71fd2e5ab142cf22c.png?t=39363418",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 20,
+    "studentRegister": 19,
     "studentAccepted": 1,
     "files": [
       {
@@ -765,6 +765,21 @@
     ]
   },
   {
+    "name": "Ngân hàng TMCP Á Châu",
+    "address": "442 Nguyễn Thị Minh Khai, Phường Bàn Cờ, Thành phố Hồ Chí Minh (ACB HO, 10th F - Tower A, 442 Nguyen Thi Minh Khai, Ban Co Ward, HCMC)",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/683ee25abff0349643c60806.png?t=84721285",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "ACB_D2_TTNT_HK253_2026-05-04.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/683ee25abff0349643c60806ACB_D2_TTNT_HK253_2026-05-04.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty CP Công nghệ SIGINX",
     "address": "15.01 Khối văn phòng Cao ốc Thái An, 2290 Quốc Lộ 1A, Phường Trung Mỹ Tây, Thành phố Hồ Chí Minh, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/683a5f2cbff0349643c6000f.png?t=63697712",
@@ -875,7 +890,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c95bc841f239ff1b30e45.jpg?t=03911271",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 43,
+    "studentRegister": 42,
     "studentAccepted": 5,
     "files": [
       {
@@ -1070,8 +1085,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/66690616f5911d0a68b80c12.png?t=61184903",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "QTSC_D2_TTNT_HK253_2026-04-24.pdf",
@@ -1130,7 +1145,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/66194c1ca36c17e66bd045c9.png?t=44709684",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 18,
+    "studentRegister": 19,
     "studentAccepted": 1,
     "files": [
       {
@@ -1326,7 +1341,7 @@
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
     "studentRegister": 17,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "DTBK_D2_TTNT_HK253_2026-04-21.pdf",
@@ -1340,7 +1355,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/625ed923bbe74fe7122f7fd2.png?t=83751795",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 80,
+    "studentRegister": 81,
     "studentAccepted": 0,
     "files": [
       {
@@ -1430,8 +1445,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607558f6ee96ff021b979bfe.png?t=03486687",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 6,
-    "studentAccepted": 2,
+    "studentRegister": 5,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "VNPT-HCM_D2_TTNT_HK253_2026-04-23.pdf",
@@ -1545,7 +1560,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef44302c2e72195b4cee4.jpg?t=82332956",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 0,
     "files": [
       {
@@ -1575,7 +1590,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef42b02c2e72195b4ceba.png?t=82417644",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "files": [
       {
