@@ -32,11 +32,11 @@
   {
     "name": "Công ty CP Hoàng Hạc",
     "address": "Lô IV, 19-20 Tây Thạnh, KCN Tân Bình, P. Tây Thạnh, TP.HCM",
-    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69fbf4683693d5bcc5830e74.png?t=20484786",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69fbf4683693d5bcc5830e74.png?t=52937849",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "HH_HoangHac_D2_TTNT_HK253_2026-05-06.pdf",
@@ -575,7 +575,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69def9be1fd2e5ab142cf236.png?t=38319343",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 23,
+    "studentRegister": 24,
     "studentAccepted": 17,
     "files": [
       {
@@ -1040,7 +1040,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/680a24ed3890995d799d8a48.png?t=95622921",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 4,
     "files": [
       {
@@ -1430,7 +1430,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/62690991bbe74fe7122f915a.png?t=71182215",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 21,
+    "studentRegister": 22,
     "studentAccepted": 1,
     "files": [
       {
@@ -1445,7 +1445,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/625ed923bbe74fe7122f7fd2.png?t=83751795",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 80,
+    "studentRegister": 78,
     "studentAccepted": 0,
     "files": [
       {
@@ -1695,7 +1695,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 160,
+    "studentRegister": 161,
     "studentAccepted": 7,
     "files": [
       {
