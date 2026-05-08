@@ -170,7 +170,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95773693d5bcc582f5a4.png?t=43359666",
     "maxAcceptedStudent": 1000,
     "maxRegister": 3000,
-    "studentRegister": 62,
+    "studentRegister": 61,
     "studentAccepted": 0,
     "files": [
       {
@@ -260,7 +260,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e981d61fd2e5ab142d04d4.png?t=11362303",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0,
     "files": [
       {
@@ -515,7 +515,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e0fb5d1fd2e5ab142cf5cc.png?t=52225376",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 7,
+    "studentRegister": 6,
     "studentAccepted": 0,
     "files": [
       {
@@ -1130,7 +1130,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/67ebe0c1502455a6d3604477.png?t=11819722",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 22,
+    "studentRegister": 21,
     "studentAccepted": 0,
     "files": [
       {
@@ -1445,7 +1445,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/625ed923bbe74fe7122f7fd2.png?t=83751795",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 77,
+    "studentRegister": 76,
     "studentAccepted": 0,
     "files": [
       {
@@ -1550,7 +1550,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607057bd87e8b4bd3d4b51d0.jpeg?t=60361610",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 26,
+    "studentRegister": 27,
     "studentAccepted": 0,
     "files": [
       {
@@ -1591,16 +1591,16 @@
   },
   {
     "name": "Tổng Công ty Công nghiệp Công nghệ cao Viettel (Viettel High Technology Industries Corporation)",
-    "address": "Tổng Công ty Giải pháp Doanh nghiệp Viettel – Tầng 10 Tòa nhà Viettel, số 285 Cách Mạng Tháng 8 – Phường Hòa Hưng – Tp.HCM",
+    "address": "Tổng Công nghiệp Công nghệ cao Viettel – Tầng 10 Tòa nhà Viettel, số 285 Cách Mạng Tháng 8 – Phường Hòa Hưng – Tp.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5ecdd474d1a3a42ea357e1e9.png?t=50848955",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "VHT_D2_TTNT_HK253_2026-05-06.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/5ecdd474d1a3a42ea357e1e9VHT_D2_TTNT_HK253_2026-05-06.docx"
+        "name": "Viettel_VHT_D2_TTNT_HK253_2026-05-08.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/5ecdd474d1a3a42ea357e1e9Viettel_VHT_D2_TTNT_HK253_2026-05-08.pdf"
       }
     ]
   },
