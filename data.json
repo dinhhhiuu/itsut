@@ -1,5 +1,20 @@
 [
   {
+    "name": "Công ty Cổ phần Tư vấn và Cung cấp Giải pháp quản trị chuẩn Việt Vang",
+    "address": "Số 7, Trần Xuân Hòa, Phường An Đông, TP Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a033f5c3693d5bcc5831b2e.png?t=76088779",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "VV_VietVang_D2_TTNT_HK253_2026-05-12.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a033f5c3693d5bcc5831b2eVV_VietVang_D2_TTNT_HK253_2026-05-12.docx"
+      }
+    ]
+  },
+  {
     "name": "Công Ty Cổ Phần Gỗ An Cường",
     "address": "702/3C Sư Vạn Hạnh, Phường Hòa Hưng, TP. Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a02db643693d5bcc5831a7d.png?t=72182341",
@@ -39,8 +54,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "KCC_D2_TTNT_HK253_2026-05-08.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a0052b93693d5bcc5831612KCC_D2_TTNT_HK253_2026-05-08.docx"
+        "name": "KCC_D2_TTNT_HK253_2026-05-13.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a0052b93693d5bcc5831612KCC_D2_TTNT_HK253_2026-05-13.pdf"
       }
     ]
   },
@@ -69,8 +84,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "HTKT_D2_TTNT_HK253_2026-05-06.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/69fbf46a3693d5bcc5830e77HTKT_D2_TTNT_HK253_2026-05-06.docx"
+        "name": "HTKT_D2_TTNT_HK253_2026-05-13.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/69fbf46a3693d5bcc5830e77HTKT_D2_TTNT_HK253_2026-05-13.pdf"
       }
     ]
   },
@@ -305,7 +320,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e981d61fd2e5ab142d04d4.png?t=11362303",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 32,
+    "studentRegister": 31,
     "studentAccepted": 0,
     "files": [
       {
@@ -395,7 +410,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e840ae1fd2e5ab142d028b.png?t=29323044",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "files": [
       {
@@ -905,7 +920,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/683ee25abff0349643c60806.png?t=40010388",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 1,
     "files": [
       {
@@ -980,7 +995,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/682d881b5d905d4f0dba5717.png?t=14694261",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 20,
+    "studentRegister": 21,
     "studentAccepted": 6,
     "files": [
       {
@@ -1040,7 +1055,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c0321841f239ff1b30d40.png?t=66339286",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 2,
     "files": [
       {
@@ -1160,7 +1175,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/67efcc43502455a6d3604b47.png?t=68701763",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 0,
     "files": [
       {
@@ -1205,7 +1220,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6669061af5911d0a68b80c16.png?t=60894882",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 2,
     "files": [
       {
@@ -1340,7 +1355,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/660b6523d3e9eccc8c61e56a.png?t=24374880",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 3,
     "files": [
       {
@@ -1425,6 +1440,21 @@
     ]
   },
   {
+    "name": "Công ty TNHH Synopsys Viet Nam",
+    "address": "Etown 2, 364 Cộng Hòa, phường Tân Bình, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6434b369e7ad7cc2b7230504.png?t=75608985",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Synopsys_D2_TTNT_HK253_2026-05-12_CE.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6434b369e7ad7cc2b7230504Synopsys_D2_TTNT_HK253_2026-05-12_CE.docx"
+      }
+    ]
+  },
+  {
     "name": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VGS",
     "address": "319 Nguyễn Thái Bình, Phường Bảy Hiền, TP Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/62a6ba53bbe74fe7122ffb61.jpg?t=14358221",
@@ -1445,7 +1475,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/62946d7abbe74fe7122fdbf3.png?t=94959343",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 5,
+    "studentRegister": 6,
     "studentAccepted": 0,
     "files": [
       {
@@ -1458,8 +1488,8 @@
     "name": "CÔNG TY TNHH AMPERE COMPUTING VIỆT NAM",
     "address": "Lô D.01, KCX Tân Thuân, Đường Tân Thuân, P. Tân Thuận, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/628ef005bbe74fe7122fd281.png?t=50099601",
-    "maxAcceptedStudent": 3,
-    "maxRegister": 9,
+    "maxAcceptedStudent": 6,
+    "maxRegister": 18,
     "studentRegister": 8,
     "studentAccepted": 0,
     "files": [
@@ -1520,7 +1550,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/625ed923bbe74fe7122f7fd2.png?t=83751795",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 52,
+    "studentRegister": 51,
     "studentAccepted": 0,
     "files": [
       {
@@ -1610,7 +1640,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6078e9a9ee96ff021b97a21f.png?t=67177564",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 3,
     "files": [
       {
@@ -1730,7 +1760,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5cbe7f25a03f03365f3adc86.png?t=80698942",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 0,
     "files": [
       {
@@ -1845,7 +1875,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef41202c2e72195b4ce90.png?t=40119777",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 0,
     "files": [
       {
