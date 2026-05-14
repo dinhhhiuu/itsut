@@ -5,7 +5,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a033f5c3693d5bcc5831b2e.png?t=76088779",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -350,7 +350,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e981d31fd2e5ab142d04d0.png?t=39246354",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 15,
+    "studentRegister": 14,
     "studentAccepted": 0,
     "files": [
       {
@@ -995,8 +995,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/682d881b5d905d4f0dba5717.png?t=14694261",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 21,
-    "studentAccepted": 6,
+    "studentRegister": 20,
+    "studentAccepted": 7,
     "files": [
       {
         "name": "DE_D2_TTNT_HK253_2026-04-06.pdf",
@@ -1040,7 +1040,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c95bc841f239ff1b30e45.jpg?t=03911271",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 28,
+    "studentRegister": 27,
     "studentAccepted": 6,
     "files": [
       {
@@ -1100,12 +1100,27 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/680a24ed3890995d799d8a48.png?t=95622921",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 6,
+    "studentRegister": 7,
     "studentAccepted": 4,
     "files": [
       {
         "name": "Fsoft_NT_D2_TTNT_HK253_2026-04-21.pdf",
         "url": "https://internship.cse.hcmut.edu.vn/company/680a24ed3890995d799d8a48Fsoft_NT_D2_TTNT_HK253_2026-04-21.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Trung tâm Công nghệ thông tin thành phố Huế (HueCIT)",
+    "address": "Số 6 Lê Lợi, P. Vĩnh Ninh, Q. Thuận Hóa, TP. Huế",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/680265d8502455a6d3606b7d.png?t=24048494",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "HueCIT_D2_TTNT_HK253_2026-05-13.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK253_2026-05-13.docx"
       }
     ]
   },
@@ -1175,7 +1190,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/67efcc43502455a6d3604b47.png?t=68701763",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 14,
+    "studentRegister": 15,
     "studentAccepted": 0,
     "files": [
       {
@@ -1190,7 +1205,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/67ebe0c1502455a6d3604477.png?t=11819722",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 17,
+    "studentRegister": 16,
     "studentAccepted": 0,
     "files": [
       {
@@ -1256,6 +1271,21 @@
       {
         "name": "APLG_Apollogix_D2_TTNT_HK253_2026-05-07.docx",
         "url": "https://internship.cse.hcmut.edu.vn/company/66631323f5911d0a68b801adAPLG_Apollogix_D2_TTNT_HK253_2026-05-07.docx"
+      }
+    ]
+  },
+  {
+    "name": "Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT",
+    "address": "Lô E2a-3 Đường D1, Khu Công nghệ cao, P. Tăng Nhơn Phú, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/665d69f424c9a126993b8626.png?t=98023611",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "HPT_D2_TTNT_HK253_2026-05-13.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/665d69f424c9a126993b8626HPT_D2_TTNT_HK253_2026-05-13.docx"
       }
     ]
   },
@@ -1386,7 +1416,7 @@
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
     "studentRegister": 2,
-    "studentAccepted": 6,
+    "studentAccepted": 5,
     "files": [
       {
         "name": "TMA_BD_D2_TTNT_HK253_2026-04-20.pdf",
@@ -1415,7 +1445,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/64530d08e7ad7cc2b72339de.png?t=56722130",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 36,
     "files": [
       {
@@ -1445,7 +1475,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6434b369e7ad7cc2b7230504.png?t=75608985",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "files": [
       {
@@ -1490,12 +1520,12 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/628ef005bbe74fe7122fd281.png?t=50099601",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 8,
+    "studentRegister": 9,
     "studentAccepted": 0,
     "files": [
       {
-        "name": "Ampere_D2_TTNT_HK253_2026-04-23_CE.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/628ef005bbe74fe7122fd281Ampere_D2_TTNT_HK253_2026-04-23_CE.docx"
+        "name": "Ampere_D2_TTNT_HK253_2026-05-13.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/628ef005bbe74fe7122fd281Ampere_D2_TTNT_HK253_2026-05-13.pdf"
       }
     ]
   },
@@ -1550,7 +1580,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/625ed923bbe74fe7122f7fd2.png?t=83751795",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 50,
+    "studentRegister": 52,
     "studentAccepted": 0,
     "files": [
       {
@@ -1580,7 +1610,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/609893d9ee96ff021b97d871.png?t=25567082",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 5,
+    "studentRegister": 0,
     "studentAccepted": 4,
     "files": [
       {
@@ -1760,7 +1790,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5cbe7f25a03f03365f3adc86.png?t=80698942",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 14,
+    "studentRegister": 13,
     "studentAccepted": 0,
     "files": [
       {
@@ -1779,8 +1809,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "GL_Gameloft_D2_TTNT_HK253_2026-05-07.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/5cbdb50b32430223db649bb0GL_Gameloft_D2_TTNT_HK253_2026-05-07.docx"
+        "name": "GL_Gameloft_D2_TTNT_HK253_2026-05-14.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/5cbdb50b32430223db649bb0GL_Gameloft_D2_TTNT_HK253_2026-05-14.pdf"
       }
     ]
   },
@@ -1830,7 +1860,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 158,
+    "studentRegister": 161,
     "studentAccepted": 10,
     "files": [
       {
