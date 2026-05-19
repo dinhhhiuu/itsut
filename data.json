@@ -1,5 +1,20 @@
 [
   {
+    "name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ NƯỚC – NĂNG LƯỢNG (WATER - ENERGY TECHNOLOGY JSC (WETEC))",
+    "address": "391/46 Sư Vạn Hạnh, phường Hoà Hưng, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0bbd4b3693d5bcc58329e0.png?t=54348768",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "WETEC_D2_TTNT_HK253_2026-05-19.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a0bbd4b3693d5bcc58329e0WETEC_D2_TTNT_HK253_2026-05-19.pdf"
+      }
+    ]
+  },
+  {
     "name": "CÔNG TY TNHH SẢN XUẤT VÀ THƯƠNG MẠI KHẢI TÍN HUY",
     "address": "Trụ sở chính tại nhà máy Khải Tín Huy – Lô C3, Đường số 1, KCN Thuận Đạo mở rộng, Xã Long Cang, Tỉnh Tây Ninh (tối thiểu 3 ngày/tuần). Một số ngày làm việc tại văn phòng đối tác Tín Triển – Khải Nguyên ở TP.HCM theo lịch dự án",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0ac0483693d5bcc583282a.png?t=89525745",
@@ -935,7 +950,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6879ad8df7ec6e26686f4ce9.png?t=04806919",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "files": [
       {
@@ -980,7 +995,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/683ee25abff0349643c60806.png?t=40010388",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 1,
     "files": [
       {
@@ -1040,7 +1055,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6830934c5d905d4f0dba5c6c.png?t=69988290",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 19,
+    "studentRegister": 18,
     "studentAccepted": 1,
     "files": [
       {
@@ -1179,8 +1194,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "HueCIT_D2_TTNT_HK253_2026-05-13.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK253_2026-05-13.docx"
+        "name": "HueCIT_D2_TTNT_HK253_2026-05-19.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/680265d8502455a6d3606b7dHueCIT_D2_TTNT_HK253_2026-05-19.pdf"
       }
     ]
   },
@@ -1520,7 +1535,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/64530d08e7ad7cc2b72339de.png?t=56722130",
     "maxAcceptedStudent": 800,
     "maxRegister": 2400,
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 36,
     "files": [
       {
@@ -1670,7 +1685,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/625ed923bbe74fe7122f7fd2.png?t=83751795",
     "maxAcceptedStudent": 30,
     "maxRegister": 90,
-    "studentRegister": 49,
+    "studentRegister": 50,
     "studentAccepted": 0,
     "files": [
       {
@@ -1730,7 +1745,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607e305bee96ff021b97ab2e.png?t=58030182",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 35,
+    "studentRegister": 36,
     "studentAccepted": 0,
     "files": [
       {
@@ -1760,7 +1775,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6078e9a9ee96ff021b97a21f.png?t=67177564",
     "maxAcceptedStudent": 9,
     "maxRegister": 27,
-    "studentRegister": 26,
+    "studentRegister": 25,
     "studentAccepted": 3,
     "files": [
       {
@@ -1790,7 +1805,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607057bd87e8b4bd3d4b51d0.jpeg?t=60361610",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 35,
+    "studentRegister": 36,
     "studentAccepted": 3,
     "files": [
       {
@@ -1850,7 +1865,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5ecb8c55d1a3a42ea357ddec.png?t=98097864",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 18,
+    "studentRegister": 19,
     "studentAccepted": 0,
     "files": [
       {
@@ -1865,7 +1880,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5cbe7f43a03f03365f3adcba.png?t=96596903",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 0,
     "files": [
       {
