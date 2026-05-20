@@ -1020,6 +1020,21 @@
     ]
   },
   {
+    "name": "Chi nhánh Công ty TNHH FPT IS tại Thành phố Hồ Chí Minh",
+    "address": "Lô B3, Đường Sáng Tạo, Khu E-Office, Khu chế xuất Tân Thuận, Phường Tân Thuận, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6837c4dcbff0349643c5fb3a.png?t=85452888",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "FIS_D2_TTNT_HK253_2026-05-19.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6837c4dcbff0349643c5fb3aFIS_D2_TTNT_HK253_2026-05-19.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH CODE LEAP",
     "address": "Tầng 17, Toà nhà L'mak Long Tower, 101-103 Nguyễn Cửu Vân, P.17, Q.Bình Thạnh, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6835ae7b5d905d4f0dba6578.png?t=48689156",
@@ -1070,7 +1085,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/682d881b5d905d4f0dba5717.png?t=04526177",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 14,
+    "studentRegister": 13,
     "studentAccepted": 10,
     "files": [
       {
@@ -1655,12 +1670,12 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/626bcf47bbe74fe7122f9627.png?t=38667160",
     "maxAcceptedStudent": 50,
     "maxRegister": 150,
-    "studentRegister": 21,
-    "studentAccepted": 0,
+    "studentRegister": 15,
+    "studentAccepted": 6,
     "files": [
       {
-        "name": "NAB_D2_TTNT_HK253_2026-05-14.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/626bcf47bbe74fe7122f9627NAB_D2_TTNT_HK253_2026-05-14.docx"
+        "name": "NAB_D2_TTNT_HK253_2026-05-20.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/626bcf47bbe74fe7122f9627NAB_D2_TTNT_HK253_2026-05-20.pdf"
       }
     ]
   },
@@ -1670,7 +1685,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/62690991bbe74fe7122f915a.png?t=71182215",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 18,
+    "studentRegister": 17,
     "studentAccepted": 4,
     "files": [
       {
