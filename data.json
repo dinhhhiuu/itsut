@@ -1,5 +1,65 @@
 [
   {
+    "name": "Công ty Netcompany Việt Nam",
+    "address": "Tầng 24-25-26-27-29-31, Khu văn phòng, Tòa nhà Opal Tower, 92 Nguyễn Hữu Cảnh, Phường Thạnh Mỹ Tây, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0fcbf23693d5bcc5833103.png?t=20496726",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Netcompany_D2_TTNT_HK253_2026-05-21.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a0fcbf23693d5bcc5833103Netcompany_D2_TTNT_HK253_2026-05-21.docx"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY TNHH GIẢI PHÁP SINH THÁI THƯƠNG MẠI",
+    "address": "17B Tân Trụ, Khu phố 17, Phường Tân Sơn, Thành phố Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0fcbf03693d5bcc5833101.png?t=20658089",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "ETS_D2_TTNT_HK253_2026-05-21.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a0fcbf03693d5bcc5833101ETS_D2_TTNT_HK253_2026-05-21.docx"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY TNHH FCLICK SOLUTIONS",
+    "address": "EE12B, Bạch Mã, Phường Hoà Hưng, Thành phố Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0fcbef3693d5bcc58330ff.png?t=20770004",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "FCLICK_D2_TTNT_HK253_2026-05-21.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a0fcbef3693d5bcc58330ffFCLICK_D2_TTNT_HK253_2026-05-21.docx"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY TNHH WILMAR MARKETING CLV",
+    "address": "Địa chỉ văn phòng đại diện HCM : Tầng 11, Royal Tower A, 235 Nguyễn Văn Cừ, Phường Cầu Ông Lãnh, TPHCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0fcbed3693d5bcc58330fd.png?t=21033500",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "CLV_D2_TTNT_HK253_2026-05-21.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a0fcbed3693d5bcc58330fdCLV_D2_TTNT_HK253_2026-05-21.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH Aureole BCD",
     "address": "Số 6A Đường 07, KCN Thạnh Phú, P. Tân Triều, Đồng Nai, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0eaef83693d5bcc5832f0a.png?t=47251211",
@@ -350,7 +410,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95773693d5bcc582f5a4.png?t=43359666",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 139,
+    "studentRegister": 143,
     "studentAccepted": 0,
     "files": [
       {
@@ -1035,12 +1095,27 @@
     ]
   },
   {
+    "name": "Ngân hàng TMCP Sài Gòn Thương Tín - Sacombank",
+    "address": "Lầu 4, Phòng phân tích dữ liệu và AI – Khối Ngân Hàng Số, 266-268 Nam Kỳ Khởi Nghĩa, Phường Xuân Hòa, Thành phố Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/684ae47ebff0349643c61dd8.png?t=79807945",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 2,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "SCB_Sacombank_D2_TTNT_HK253_2026-05-21.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/684ae47ebff0349643c61dd8SCB_Sacombank_D2_TTNT_HK253_2026-05-21.docx"
+      }
+    ]
+  },
+  {
     "name": "CÔNG TY TNHH TẦM NHÌN CHUYÊN GIA",
     "address": "123 đường N3B, Global City, P. An Phú, TP. Thủ Đức, TPHCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6846e1fcbff0349643c61671.png?t=94147488",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 3,
+    "studentRegister": 4,
     "studentAccepted": 0,
     "files": [
       {
@@ -1130,7 +1205,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6830934c5d905d4f0dba5c6c.png?t=69988290",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 18,
+    "studentRegister": 19,
     "studentAccepted": 1,
     "files": [
       {
@@ -1235,7 +1310,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/680b75ef3890995d799d8ca2.png?t=81903830",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 12,
+    "studentRegister": 13,
     "studentAccepted": 2,
     "files": [
       {
@@ -1745,7 +1820,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/62690991bbe74fe7122f915a.png?t=71182215",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 15,
+    "studentRegister": 16,
     "studentAccepted": 4,
     "files": [
       {
@@ -2000,7 +2075,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5cb9f21181356c7c25789edc.png?t=03246979",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 9,
+    "studentRegister": 8,
     "studentAccepted": 3,
     "files": [
       {
@@ -2040,7 +2115,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "maxAcceptedStudent": 70,
     "maxRegister": 210,
-    "studentRegister": 159,
+    "studentRegister": 158,
     "studentAccepted": 10,
     "files": [
       {
@@ -2100,7 +2175,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef41202c2e72195b4ce90.png?t=40119777",
     "maxAcceptedStudent": 6,
     "maxRegister": 18,
-    "studentRegister": 17,
+    "studentRegister": 18,
     "studentAccepted": 0,
     "files": [
       {
