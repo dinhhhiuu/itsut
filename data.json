@@ -153,8 +153,8 @@
     "name": "Công Ty Cổ Phần Công Nghệ SysOne",
     "address": "73 Đường số 1 khu Hiệp Ân, Phường 5, Khu Phố 2, Chánh Hưng, Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a1314683693d5bcc58336b3.png?t=73946021",
-    "maxAcceptedStudent": 1,
-    "maxRegister": 1,
+    "maxAcceptedStudent": 2,
+    "maxRegister": 2,
     "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
@@ -635,8 +635,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95773693d5bcc582f5a4.png?t=43359666",
     "maxAcceptedStudent": 200,
     "maxRegister": 600,
-    "studentRegister": 28,
-    "studentAccepted": 200,
+    "studentRegister": 30,
+    "studentAccepted": 184,
     "files": [
       {
         "name": "AWS_D2_TTNT_HK253_2026-05-20.pdf",
