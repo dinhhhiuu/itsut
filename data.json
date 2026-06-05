@@ -99,8 +99,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "PRINTADA_D2_TTNT_HK253_2026-06-03.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a20ee743693d5bcc5834f42PRINTADA_D2_TTNT_HK253_2026-06-03.docx"
+        "name": "PRINTADA_D2_TTNT_HK253_2026-06-05.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a20ee743693d5bcc5834f42PRINTADA_D2_TTNT_HK253_2026-06-05.pdf"
       }
     ]
   },
@@ -110,7 +110,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a20ee733693d5bcc5834f40.png?t=46307907",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -530,12 +530,12 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a11b61f3693d5bcc5833459.png?t=72631843",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "TADA_D2_TTNT_HK253_2026-05-22.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a11b61f3693d5bcc5833459TADA_D2_TTNT_HK253_2026-05-22.docx"
+        "name": "TADA_D3_TTNT_HK253_2026-06-05.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a11b61f3693d5bcc5833459TADA_D3_TTNT_HK253_2026-06-05.pdf"
       }
     ]
   },
@@ -2015,7 +2015,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/67f53d88502455a6d36054b3.png?t=25614024",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -2274,8 +2274,8 @@
     "studentAccepted": 3,
     "files": [
       {
-        "name": "OW_D2_TTNT_HK253_2026-03-20.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/660b6523d3e9eccc8c61e56aOW_D2_TTNT_HK253_2026-03-20.pdf"
+        "name": "OW_OpenWay_D3_TTNT_HK253_2026-06-05.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/660b6523d3e9eccc8c61e56aOW_OpenWay_D3_TTNT_HK253_2026-06-05.pdf"
       }
     ]
   },
@@ -2628,8 +2628,8 @@
     "name": "Công ty TNHH Thương mại Dịch vụ Sản xuât ABC Solutions",
     "address": "39 Đường số 3, Cư xá Lữ Gia, Phường Phú Thọ, TP. Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/60823ef7ee96ff021b97b224.png?t=40163339",
-    "maxAcceptedStudent": 14,
-    "maxRegister": 14,
+    "maxAcceptedStudent": 15,
+    "maxRegister": 15,
     "studentRegister": 0,
     "studentAccepted": 14,
     "files": [
@@ -2690,7 +2690,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607558f6ee96ff021b979bfe.png?t=03486687",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 4,
     "files": [
       {
