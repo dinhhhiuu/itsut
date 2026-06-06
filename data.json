@@ -94,7 +94,7 @@
     "address": "118 đường số 2, khu dân cư Kim Sơn, phường Tân Hưng, TP. HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a20ee743693d5bcc5834f42.png?t=46153063",
     "maxAcceptedStudent": 1,
-    "maxRegister": 1,
+    "maxRegister": 5,
     "studentRegister": 0,
     "studentAccepted": 0,
     "files": [
@@ -2105,7 +2105,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6669061af5911d0a68b80c16.png?t=60894882",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 2,
     "files": [
       {
@@ -2150,7 +2150,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/666115565525c35634b81069.png?t=25635476",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "files": [
       {
@@ -2345,7 +2345,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/647080bce7ad7cc2b7236ce8.png?t=05413628",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 6,
+    "studentRegister": 7,
     "studentAccepted": 2,
     "files": [
       {
@@ -2735,7 +2735,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/606b13ec87e8b4bd3d4b4816.png?t=63816359",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 3,
     "files": [
       {
@@ -2925,7 +2925,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "maxAcceptedStudent": 110,
     "maxRegister": 330,
-    "studentRegister": 29,
+    "studentRegister": 30,
     "studentAccepted": 95,
     "files": [
       {
