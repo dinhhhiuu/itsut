@@ -50,7 +50,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2697354c1d3446367e91c5.png?t=14534264",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -275,7 +275,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a20ee6e3693d5bcc5834f39.png?t=21667868",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 1,
     "files": [
       {
@@ -425,7 +425,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a1c455d3693d5bcc58346f8.png?t=82408551",
     "maxAcceptedStudent": 8,
     "maxRegister": 24,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 3,
     "files": [
       {
@@ -815,7 +815,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0bbd4b3693d5bcc58329e0.png?t=54348768",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 5,
+    "studentRegister": 1,
     "studentAccepted": 2,
     "files": [
       {
@@ -1101,7 +1101,7 @@
     "maxAcceptedStudent": 200,
     "maxRegister": 600,
     "studentRegister": 24,
-    "studentAccepted": 199,
+    "studentAccepted": 198,
     "files": [
       {
         "name": "AWS_D3_TTNT_HK253_2026-06-08.pdf",
@@ -1218,9 +1218,9 @@
     "name": "Công ty TNHH SoftwareOne Việt Nam",
     "address": "Tầng 5, Tòa nhà TTC, Số 253 Hoàng Văn Thụ, Phường Tân Sơn Hòa, Thành phố Hồ Chí Minh, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e981d31fd2e5ab142d04d0.png?t=39246354",
-    "maxAcceptedStudent": 13,
-    "maxRegister": 39,
-    "studentRegister": 1,
+    "maxAcceptedStudent": 14,
+    "maxRegister": 42,
+    "studentRegister": 2,
     "studentAccepted": 13,
     "files": [
       {
@@ -1250,8 +1250,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e840b21fd2e5ab142d0291.png?t=28774648",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 2,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "files": [
       {
         "name": "NUS_SoC_D2_TTNT_HK253_2026-04-24.docx",
@@ -1505,7 +1505,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69def9be1fd2e5ab142cf236.png?t=38319343",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 19,
     "files": [
       {
@@ -1940,8 +1940,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/68355d645d905d4f0dba64bf.png?t=31914676",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 4,
-    "studentAccepted": 3,
+    "studentRegister": 3,
+    "studentAccepted": 4,
     "files": [
       {
         "name": "OS_OhStem_D2_TTNT_HK253_2026-06-01_CE.pdf",
@@ -2135,8 +2135,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/67f53d88502455a6d36054b3.png?t=25614024",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 2,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "files": [
       {
         "name": "Mobius_D2_TTNT_HK253_2026-03-30_Japanese.pdf",
@@ -2195,7 +2195,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/67ebe0c1502455a6d3604477.png?t=11819722",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 4,
+    "studentRegister": 3,
     "studentAccepted": 3,
     "files": [
       {
@@ -2540,7 +2540,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6434b369e7ad7cc2b7230504.png?t=75608985",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 1,
     "files": [
       {
@@ -2615,7 +2615,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/626bcf48bbe74fe7122f9629.jpg?t=27442362",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "files": [
       {
@@ -2676,7 +2676,7 @@
     "maxAcceptedStudent": 35,
     "maxRegister": 105,
     "studentRegister": 0,
-    "studentAccepted": 34,
+    "studentAccepted": 33,
     "files": [
       {
         "name": "Viettel_VTS_D3_TTNT_HK253_2026-05-28.pdf",
@@ -2703,8 +2703,8 @@
     "name": "Bosch 2 - CÔNG TY TNHH BOSCH GLOBAL SOFTWARE TECHNOLOGIES",
     "address": "Tòa nhà Officehaus, 32 Bờ Bao Tân Thắng, Phường Tân Sơn Nhì, TPHCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/60a4791aee96ff021b97ecdc.png?t=80689817",
-    "maxAcceptedStudent": 5,
-    "maxRegister": 5,
+    "maxAcceptedStudent": 10,
+    "maxRegister": 10,
     "studentRegister": 0,
     "studentAccepted": 4,
     "files": [
@@ -3075,7 +3075,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "maxAcceptedStudent": 150,
     "maxRegister": 450,
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 113,
     "files": [
       {
