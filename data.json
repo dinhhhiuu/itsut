@@ -35,7 +35,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2bfc2fa1e2f800231dc785.png?t=68539037",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "files": [
       {
@@ -918,10 +918,10 @@
     "name": "Công Ty Cổ Phần Thế Giới Tin Học",
     "address": "351/1/15 Lạc Long Quân, Phường Hòa Bình, TPHCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a1c455d3693d5bcc58346f8.png?t=82408551",
-    "maxAcceptedStudent": 8,
-    "maxRegister": 24,
-    "studentRegister": 2,
-    "studentAccepted": 8,
+    "maxAcceptedStudent": 16,
+    "maxRegister": 48,
+    "studentRegister": 0,
+    "studentAccepted": 10,
     "files": [
       {
         "name": "ITW_D2_TTNT_HK253_2026-06-12.pdf",
@@ -1775,7 +1775,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e840ae1fd2e5ab142d028b.png?t=29323044",
     "maxAcceptedStudent": 4,
     "maxRegister": 12,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 1,
     "files": [
       {
@@ -2570,7 +2570,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/680b75ef3890995d799d8ca2.png?t=81903830",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 4,
+    "studentRegister": 5,
     "studentAccepted": 2,
     "files": [
       {
@@ -2705,7 +2705,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/67ebe0c1502455a6d3604477.png?t=11819722",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 3,
     "files": [
       {
@@ -3470,7 +3470,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/606d0b0087e8b4bd3d4b4b90.jpg?t=89905727",
     "maxAcceptedStudent": 20,
     "maxRegister": 60,
-    "studentRegister": 6,
+    "studentRegister": 5,
     "studentAccepted": 6,
     "files": [
       {
@@ -3690,7 +3690,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "maxAcceptedStudent": 150,
     "maxRegister": 450,
-    "studentRegister": 12,
+    "studentRegister": 11,
     "studentAccepted": 128,
     "files": [
       {
