@@ -2855,8 +2855,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6657e01d24c9a126993b7c96.png?t=59831356",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "AIL_InnovationAILab_D2_TTNT_HK253_2026-06-11.pdf",
