@@ -1445,7 +1445,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a1314683693d5bcc58336b3.png?t=73946021",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 1,
     "files": [
       {
@@ -1640,8 +1640,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a0ac0483693d5bcc583282a.png?t=89525745",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "KTH_D2_TTNT_HK253_2026-05-21.pdf",
@@ -2883,8 +2883,8 @@
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "address": "BD/BA-AP Department, 3rd Floor, E-town 3, 364 Cong Hoa St., Tan Binh Ward, HCMC",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c0321841f239ff1b30d40.png?t=66339286",
-    "maxAcceptedStudent": 3,
-    "maxRegister": 9,
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
     "studentRegister": 2,
     "studentAccepted": 3,
     "files": [
@@ -3740,7 +3740,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607f8d12ee96ff021b97ad88.png?t=68420383",
     "maxAcceptedStudent": 9,
     "maxRegister": 9,
-    "studentRegister": 1,
+    "studentRegister": 3,
     "studentAccepted": 0,
     "files": [
       {
@@ -3830,7 +3830,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607057bd87e8b4bd3d4b51d0.jpeg?t=60361610",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 10,
+    "studentRegister": 11,
     "studentAccepted": 13,
     "files": [
       {
@@ -4108,14 +4108,14 @@
     "name": "Bosch 3 - ROBERT BOSCH ENGINEERING & BUSINESS SOLUTIONS VN Co., Ltd.",
     "address": "Tầng 7, Tòa nhà The Mett, 15 Đường Trần Bạch Đằng, Phường An Khánh, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef42002c2e72195b4cea8.png?t=74257893",
-    "maxAcceptedStudent": 1,
-    "maxRegister": 1,
+    "maxAcceptedStudent": 3,
+    "maxRegister": 3,
     "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
-        "name": "Bosch_3_D2_TTNT_HK253_2026-06-03.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/5caef42002c2e72195b4cea8Bosch_3_D2_TTNT_HK253_2026-06-03.docx"
+        "name": "Bosch_3_D2_TTNT_HK253_2026-06-15_TuyenNTT.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/5caef42002c2e72195b4cea8Bosch_3_D2_TTNT_HK253_2026-06-15_TuyenNTT.docx"
       }
     ]
   },
