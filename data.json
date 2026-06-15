@@ -1,5 +1,65 @@
 [
   {
+    "name": "Công ty TNHH BrandShield Việt Nam",
+    "address": "207 đường Số 5, KDC Lakeview, phường Bình Trưng, Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70c1a1e2f800231dcdba.png?t=94052458",
+    "maxAcceptedStudent": 8,
+    "maxRegister": 24,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "BS_BrandShield_D2_TTNT_HK253_2026-06-12.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70c1a1e2f800231dcdbaBS_BrandShield_D2_TTNT_HK253_2026-06-12.docx"
+      }
+    ]
+  },
+  {
+    "name": "PiTEL - GIẢI PHÁP TỔNG ĐÀI CALL CENTER CHO DOANH NGHIỆP",
+    "address": "82/2/9 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b3a1e2f800231dcda4.png?t=96666252",
+    "maxAcceptedStudent": 3,
+    "maxRegister": 9,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "PiTEL_D2_TTNT_HK253_2026-06-12.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70b3a1e2f800231dcda4PiTEL_D2_TTNT_HK253_2026-06-12.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Chi nhánh Miền Nam - Công ty CP Tin học viễn thông Petrolimex (Piacom)",
+    "address": "Tầng 6, tòa nhà WIN HOME, 209 Hoàng Văn Thụ, p. Phú Nhuận, tp. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b1a1e2f800231dcda0.png?t=97281615",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Piacom_D2_TTNT_HK253_2026-06-12.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70b1a1e2f800231dcda0Piacom_D2_TTNT_HK253_2026-06-12.pdf"
+      }
+    ]
+  },
+  {
+    "name": "VIỆN NGHIÊN CỨU VÀ PHÁT TRIỂN CÔNG NGHỆ BÁN DẪN VNCHIP",
+    "address": "190 ĐỘC LẬP, PHƯỜNG PHÚ THỌ HÒA, THÀNH PHỐ HỒ CHÍ MINH",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b0a1e2f800231dcd9e.png?t=96875012",
+    "maxAcceptedStudent": 6,
+    "maxRegister": 6,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "VNCHIP_D2_TTNT_HK253_2026-06-12.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70b0a1e2f800231dcd9eVNCHIP_D2_TTNT_HK253_2026-06-12.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT",
     "address": "Lô E2a-3 đường D1, khu Công nghệ cao, Phường Long Thạnh Mỹ, TP. Thủ Đức, TP. HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2bfe4da1e2f800231dc78f.png?t=68091842",
@@ -54,8 +114,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "EZSEO_D2_TTNT_HK253_2026-06-11.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a2bfc2ba1e2f800231dc783EZSEO_D2_TTNT_HK253_2026-06-11.docx"
+        "name": "EZSEO_D2_TTNT_HK253_2026-06-15.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2bfc2ba1e2f800231dc783EZSEO_D2_TTNT_HK253_2026-06-15.pdf"
       }
     ]
   },
@@ -65,8 +125,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2bfc29a1e2f800231dc781.png?t=68835036",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "TGX_D2_TTNT_HK253_2026-06-11.pdf",
@@ -151,16 +211,16 @@
   },
   {
     "name": "CÔNG TY TNHH CÔNG NGHỆ ĐIỆN TỬ ZENOPCB",
-    "address": "số 22 đường Tân Lập 1, phường Tăng Nhơn Phú, thành phố Hồ Chí Minh",
+    "address": "350/2 đường Chiến Lược, Phường Bình Trị Đông, TP Hồ Chí Minh, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2bfc22a1e2f800231dc775.png?t=70803763",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
-        "name": "ZENOPCB_D2_TTNT_HK253_2026-06-11_CE.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a2bfc22a1e2f800231dc775ZENOPCB_D2_TTNT_HK253_2026-06-11_CE.docx"
+        "name": "ZENOPCB_D3_HK253_TTNT_2026-06-15.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2bfc22a1e2f800231dc775ZENOPCB_D3_HK253_TTNT_2026-06-15.pdf"
       }
     ]
   },
@@ -785,8 +845,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a1f8e6b3693d5bcc5834cce.png?t=53413408",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "Viettel_VCS_D2_TTNT_HK253_2026-06-12.pdf",
@@ -920,7 +980,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a1c455d3693d5bcc58346f8.png?t=82408551",
     "maxAcceptedStudent": 16,
     "maxRegister": 48,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 10,
     "files": [
       {
@@ -2015,7 +2075,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69def9bd1fd2e5ab142cf234.png?t=38472239",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 4,
+    "studentRegister": 3,
     "studentAccepted": 6,
     "files": [
       {
@@ -2525,7 +2585,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c95bc841f239ff1b30e45.jpg?t=03911271",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 16,
+    "studentRegister": 14,
     "studentAccepted": 6,
     "files": [
       {
@@ -2793,9 +2853,9 @@
     "name": "Công ty TNHH Apollogix (APLG)",
     "address": "87 Đường B4, Phường An Lợi Đông, Q2. Tp Thủ Đức",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/66631323f5911d0a68b801ad.png?t=07596294",
-    "maxAcceptedStudent": 4,
-    "maxRegister": 12,
-    "studentRegister": 0,
+    "maxAcceptedStudent": 6,
+    "maxRegister": 18,
+    "studentRegister": 1,
     "studentAccepted": 4,
     "files": [
       {
@@ -3200,7 +3260,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/62748bbabbe74fe7122fa52c.png?t=05408584",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 1,
     "files": [
       {
@@ -3375,6 +3435,21 @@
     ]
   },
   {
+    "name": "Công ty TNHH Công nghệ Marvell VN",
+    "address": "Lầu 5, Tòa nhà B, Khu nhà xưởng Văn Phòng, Lô D.01, Đường Tân Thuận, Khu chế xuất Tân Thuận, Phường Tân Thuận Đông, Quận 7, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/607f8d12ee96ff021b97ad88.png?t=68420383",
+    "maxAcceptedStudent": 9,
+    "maxRegister": 9,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Marvell_D2_TTNT_HK253_2026-06-12_TramHT.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/607f8d12ee96ff021b97ad88Marvell_D2_TTNT_HK253_2026-06-12_TramHT.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty CP Công nghệ VIHAT Software",
     "address": "140-142, Đường số 02, KDC Vạn Phúc 1, P. Hiệp Bình, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607e305eee96ff021b97ab32.png?t=82830038",
@@ -3455,8 +3530,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607057bd87e8b4bd3d4b51d0.jpeg?t=60361610",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 11,
-    "studentAccepted": 12,
+    "studentRegister": 10,
+    "studentAccepted": 13,
     "files": [
       {
         "name": "TMA_HCM_D2_TTNT_HK253_2026-04-28.pdf",
@@ -3690,7 +3765,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "maxAcceptedStudent": 150,
     "maxRegister": 450,
-    "studentRegister": 12,
+    "studentRegister": 13,
     "studentAccepted": 128,
     "files": [
       {
