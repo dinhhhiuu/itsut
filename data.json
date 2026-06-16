@@ -20,7 +20,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3169d9a1e2f800231dd16d.png?t=23962660",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -65,7 +65,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3169d6a1e2f800231dd167.png?t=24662841",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -80,7 +80,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3169d4a1e2f800231dd165.png?t=25011805",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -90,27 +90,12 @@
     ]
   },
   {
-    "name": "VPĐD Công ty CP Thông tin và Công nghệ Số tại TP.HCM",
-    "address": "43/4 Thành Thái, P. Diên Hồng, TP.HCM",
-    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3169d1a1e2f800231dd163.png?t=25157241",
-    "maxAcceptedStudent": 1,
-    "maxRegister": 1,
-    "studentRegister": 0,
-    "studentAccepted": 0,
-    "files": [
-      {
-        "name": "ITD_D2_TTNT_HK253_2026-06-15.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a3169d1a1e2f800231dd163ITD_D2_TTNT_HK253_2026-06-15.pdf"
-      }
-    ]
-  },
-  {
     "name": "HD SAISON FINANCE CO.,LTD",
     "address": "24C đường Phan Đăng Lưu,Phường Gia Định, Thành phố Hồ Chí Minh, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3169d0a1e2f800231dd161.png?t=25277839",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -1355,8 +1340,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a1c455d3693d5bcc58346f8.png?t=82408551",
     "maxAcceptedStudent": 16,
     "maxRegister": 48,
-    "studentRegister": 2,
-    "studentAccepted": 10,
+    "studentRegister": 1,
+    "studentAccepted": 11,
     "files": [
       {
         "name": "ITW_D2_TTNT_HK253_2026-06-12.pdf",
@@ -4160,7 +4145,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5cbdb50b32430223db649bb0.jpg?t=66482527",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 1,
     "files": [
       {
