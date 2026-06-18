@@ -1,5 +1,80 @@
 [
   {
+    "name": "Next Robotics Join-Stock Company",
+    "address": "53, No 6, Long Truong District, HCMC",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a334261a1e2f800231dd4c1.png?t=44279735",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "NR_D2_TTNT_HK253_2026-06-17_CE.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a334261a1e2f800231dd4c1NR_D2_TTNT_HK253_2026-06-17_CE.pdf"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY TNHH TIN HỌC VÀ THƯƠNG MẠI (ASNET)",
+    "address": "604 Núi Thành, Phường Hòa Cường, TP Đà Nẵng, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a334260a1e2f800231dd4bf.png?t=44528660",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "AsNet_D2_TTNT_HK253_2026-06-17.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a334260a1e2f800231dd4bfAsNet_D2_TTNT_HK253_2026-06-17.docx"
+      }
+    ]
+  },
+  {
+    "name": "Công ty cổ phần Trí Tuệ Đồng Bằng",
+    "address": "Lô số 283 – 285 Đường D1, KDC Hồng Loan (KDC lô số 6), khu đô thị mới Nam Cần Thơ, KV5, Phường Cái Răng, TP. Cần Thơ",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a33425ea1e2f800231dd4bd.png?t=44669086",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "TTDB_D2_TTNT_HK253_2026-06-17.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a33425ea1e2f800231dd4bdTTDB_D2_TTNT_HK253_2026-06-17.docx"
+      }
+    ]
+  },
+  {
+    "name": "Công ty liên doanh Phạm - Asset",
+    "address": "Lô D4/1, Đường 1B, KCN Vĩnh Lộc, P. Bình Hưng Hòa B, Q. Bình Tân, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a33425da1e2f800231dd4bb.png?t=44905384",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "JoJo_D2_TTNT_HK253_2026-06-17.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a33425da1e2f800231dd4bbJoJo_D2_TTNT_HK253_2026-06-17.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Tổng Công ty Giải pháp Doanh nghiệp Viettel",
+    "address": "Tổng Công ty Giải pháp Doanh nghiệp Viettel – Tầng 10 Tòa nhà Viettel, số 285 Cách Mạng Tháng 8 – Phường Hòa Hưng – Tp.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a33425ca1e2f800231dd4b9.png?t=45106344",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Viettel_VHT_3_D2_TTNT_HK253_2026-06-17.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a33425ca1e2f800231dd4b9Viettel_VHT_3_D2_TTNT_HK253_2026-06-17.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty Cổ phần Dịch vụ Công nghệ Tin học HPT",
     "address": "37 Nguyễn Trường Tộ, Phường Xóm Chiếu, TP. Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3169daa1e2f800231dd16f.png?t=23810011",
@@ -276,7 +351,7 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "VL_D2_TTNT_HK253_2026-06-12.pdf",
@@ -3005,12 +3080,12 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/682c73f45d905d4f0dba552a.png?t=44093527",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "AC_AppsCyclone_D2_TTNT_HK253_2026-06-12.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/682c73f45d905d4f0dba552aAC_AppsCyclone_D2_TTNT_HK253_2026-06-12.pdf"
+        "name": "AC_D2_TTNT_HK253_2026-06-18.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/682c73f45d905d4f0dba552aAC_D2_TTNT_HK253_2026-06-18.pdf"
       }
     ]
   },
@@ -3065,7 +3140,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c0321841f239ff1b30d40.png?t=66339286",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 2,
+    "studentRegister": 3,
     "studentAccepted": 9,
     "files": [
       {
@@ -4025,8 +4100,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607057bd87e8b4bd3d4b51d0.jpeg?t=60361610",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 11,
-    "studentAccepted": 13,
+    "studentRegister": 10,
+    "studentAccepted": 14,
     "files": [
       {
         "name": "TMA_HCM_D2_TTNT_HK253_2026-04-28.pdf",
