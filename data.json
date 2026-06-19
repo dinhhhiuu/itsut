@@ -1,5 +1,95 @@
 [
   {
+    "name": "CÔNG TY TNHH IRIS DATA – DRIVEN MARKETING AGENCY",
+    "address": "VP-3-05 Tầng 003 Block Stma00, Tòa Nhà ST.Moritz, Số 1014 Phạm Văn Đồng, Phường Hiệp Bình, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a34efc4a1e2f800231dd7ca.png?t=54393998",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "IRIS_D2_TTNT_HK253_2026-06-18.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc4a1e2f800231dd7caIRIS_D2_TTNT_HK253_2026-06-18.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công ty cổ phần xây dựng thương mại SQC",
+    "address": "Số 14 Đường 16, Khu Phố 64, Phường Hiệp Bình, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a34efc3a1e2f800231dd7c8.png?t=54518157",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "SQC_D2_TTNT_HK253_2026-06-18.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc3a1e2f800231dd7c8SQC_D2_TTNT_HK253_2026-06-18.docx"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY TNHH SOBIE GROUP",
+    "address": "Tòa nhà SOBIE, 19 Hoàng Minh Giám, Phường Đức Nhuận, Thành Phố Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a34efc2a1e2f800231dd7c6.png?t=54640047",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "SOBIE_D2_TTNT_HK253_2026-06-18.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc2a1e2f800231dd7c6SOBIE_D2_TTNT_HK253_2026-06-18.docx"
+      }
+    ]
+  },
+  {
+    "name": "Công ty TNHH Giải Pháp Công Nghệ CRM Online",
+    "address": "Lầu 2,4 đường 9, KDC CityLand Park Hill, P. Gò Vấp, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a34efc1a1e2f800231dd7c4.png?t=54784841",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "CRMO_CRMOnline_D2_TTNT_HK253_2026-06-18.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc1a1e2f800231dd7c4CRMO_CRMOnline_D2_TTNT_HK253_2026-06-18.pdf"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY TNHH TOPICUS VIỆT NAM",
+    "address": "Phòng 303-304, Tầng 3 và Phòng 403, Tầng 4, Tòa nhà CentrePoint, 106 Nguyễn Văn Trỗi, Phường Phú Nhuận, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a34efc0a1e2f800231dd7c2.png?t=54874698",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Topicus_D2_TTNT_HK253_2026-06-18.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc0a1e2f800231dd7c2Topicus_D2_TTNT_HK253_2026-06-18.docx"
+      }
+    ]
+  },
+  {
+    "name": "TRUNG TÂM CHUYỂN ĐỔI SỐ VÀ CÔNG NGHỆ CHIẾN LƯỢC ĐÀ NẴNG - DANANG CENTER FOR DIGITAL TRANSFORMATION AND STRATEGIC TECHNOLOGY",
+    "address": "Tòa nhà 02 Quang Trung, phường Hải Châu, thành phố Đà Nẵng",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a34efbea1e2f800231dd7c0.png?t=54984342",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "DDS_D2_TTNT_HK253_2026-06-18.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efbea1e2f800231dd7c0DDS_D2_TTNT_HK253_2026-06-18.docx"
+      }
+    ]
+  },
+  {
     "name": "Next Robotics Join-Stock Company",
     "address": "53, No 6, Long Truong District, HCMC",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a334261a1e2f800231dd4c1.png?t=44279735",
@@ -80,8 +170,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3169daa1e2f800231dd16f.png?t=23810011",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "HPT_2_D2_TTNT_HK253_2026-06-19_CE.pdf",
@@ -159,8 +249,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "CSDT_D2_TTNT_HK253_2026-06-15.doc",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a3169d4a1e2f800231dd165CSDT_D2_TTNT_HK253_2026-06-15.doc"
+        "name": "CSDT_D2_TTNT_HK253_2026-06-19.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a3169d4a1e2f800231dd165CSDT_D2_TTNT_HK253_2026-06-19.pdf"
       }
     ]
   },
@@ -3140,8 +3230,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c0321841f239ff1b30d40.png?t=66339286",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 3,
-    "studentAccepted": 9,
+    "studentRegister": 2,
+    "studentAccepted": 10,
     "files": [
       {
         "name": "Bosch_D2_TTNT_HK253_2026-06-16_VyTN.pdf",
@@ -3335,8 +3425,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6676c4ef28ce7ef5bfd64cfe.png?t=60115812",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "Combros_D2_TTNT_HK253_2026-06-19.pdf",
@@ -4010,7 +4100,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607f8d12ee96ff021b97ad88.png?t=68420383",
     "maxAcceptedStudent": 9,
     "maxRegister": 9,
-    "studentRegister": 7,
+    "studentRegister": 8,
     "studentAccepted": 0,
     "files": [
       {
