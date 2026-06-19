@@ -20,8 +20,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a334260a1e2f800231dd4bf.png?t=44528660",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "ASNET_D2_TTNT_HK253_2026-06-18.pdf",
@@ -30,13 +30,13 @@
     ]
   },
   {
-    "name": "Công ty cổ phần Trí Tuệ Đồng Bằng",
+    "name": "Delta Brains - Công ty cổ phần Trí Tuệ Đồng Bằng",
     "address": "Lô số 283 – 285 Đường D1, KDC Hồng Loan (KDC lô số 6), khu đô thị mới Nam Cần Thơ, KV5, Phường Cái Răng, TP. Cần Thơ",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a33425ea1e2f800231dd4bd.png?t=44669086",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "TTDB_D3_TTNT_HK253_2026-06-18.pdf",
@@ -80,12 +80,12 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3169daa1e2f800231dd16f.png?t=23810011",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
-        "name": "HPT_2_D2_TTNT_HK253_2026-06-15_CE.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a3169daa1e2f800231dd16fHPT_2_D2_TTNT_HK253_2026-06-15_CE.docx"
+        "name": "HPT_2_D2_TTNT_HK253_2026-06-19_CE.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a3169daa1e2f800231dd16fHPT_2_D2_TTNT_HK253_2026-06-19_CE.pdf"
       }
     ]
   },
@@ -516,11 +516,11 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "VI_VietInfo_D2_TTNT_HK253_2026-06-14.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70aaa1e2f800231dcd94VI_VietInfo_D2_TTNT_HK253_2026-06-14.docx"
+        "name": "VI_VietInfo_D2_TTNT_HK253_2026-06-19.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70aaa1e2f800231dcd94VI_VietInfo_D2_TTNT_HK253_2026-06-19.pdf"
       }
     ]
   },
@@ -2120,7 +2120,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69ed95773693d5bcc582f5a4.png?t=43359666",
     "maxAcceptedStudent": 200,
     "maxRegister": 600,
-    "studentRegister": 21,
+    "studentRegister": 20,
     "studentAccepted": 198,
     "files": [
       {
@@ -3339,8 +3339,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "Combros_D2_TTNT_HK253_2026-06-10.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6676c4ef28ce7ef5bfd64cfeCombros_D2_TTNT_HK253_2026-06-10.docx"
+        "name": "Combros_D2_TTNT_HK253_2026-06-19.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6676c4ef28ce7ef5bfd64cfeCombros_D2_TTNT_HK253_2026-06-19.pdf"
       }
     ]
   },
@@ -3845,7 +3845,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/626bcf47bbe74fe7122f9627.png?t=38667160",
     "maxAcceptedStudent": 50,
     "maxRegister": 150,
-    "studentRegister": 4,
+    "studentRegister": 3,
     "studentAccepted": 10,
     "files": [
       {
