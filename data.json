@@ -650,8 +650,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2bfc2fa1e2f800231dc785.png?t=68539037",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 2,
-    "studentAccepted": 2,
+    "studentRegister": 1,
+    "studentAccepted": 3,
     "files": [
       {
         "name": "NaviX_D3_TTNT_HK253_2026-06-16.pdf",
@@ -695,7 +695,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2bfc28a1e2f800231dc77f.png?t=68994450",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 1,
     "files": [
       {
@@ -3123,10 +3123,10 @@
     "name": "Công ty TNHH OhStem Education",
     "address": "Số 4 Trịnh Đình Thảo, P. Tân Phú, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/68355d645d905d4f0dba64bf.png?t=31914676",
-    "maxAcceptedStudent": 4,
-    "maxRegister": 12,
+    "maxAcceptedStudent": 6,
+    "maxRegister": 18,
     "studentRegister": 1,
-    "studentAccepted": 4,
+    "studentAccepted": 5,
     "files": [
       {
         "name": "OS_OhStem_D2_TTNT_HK253_2026-06-01_CE.pdf",
