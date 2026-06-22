@@ -5,7 +5,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3901aba1e2f800231ddeda.png?t=20944517",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -20,12 +20,27 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3901aaa1e2f800231dded8.png?t=21188865",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "AIM_D2_TTNT_HK253_2026-06-22.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a3901aaa1e2f800231dded8AIM_D2_TTNT_HK253_2026-06-22.pdf"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY TNHH SAM BILLIARDS VIỆT NAM",
+    "address": "Số 25/2 Quốc lộ 13, Khu phố 3, Phường Hòa Lợi, Thành Phố Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3901a9a1e2f800231dded6.png?t=21362766",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 0,
     "files": [
       {
-        "name": "AIM_D2_TTNT_HK253_2026-06-19_CE.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a3901aaa1e2f800231dded8AIM_D2_TTNT_HK253_2026-06-19_CE.docx"
+        "name": "SB_SAM_BILLIARDS_D2_TTNT_HK253_2026-06-22_V2.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a3901a9a1e2f800231dded6SB_SAM_BILLIARDS_D2_TTNT_HK253_2026-06-22_V2.pdf"
       }
     ]
   },
@@ -84,8 +99,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "SOBIE_D2_TTNT_HK253_2026-06-18.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc2a1e2f800231dd7c6SOBIE_D2_TTNT_HK253_2026-06-18.docx"
+        "name": "SOBIE_D2_TTNT_HK253_2026-06-22.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc2a1e2f800231dd7c6SOBIE_D2_TTNT_HK253_2026-06-22.pdf"
       }
     ]
   },
@@ -125,8 +140,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a34efbea1e2f800231dd7c0.png?t=54984342",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "DDS_D2_TTNT_HK253_2026-06-22.pdf",
@@ -3180,9 +3195,9 @@
     ]
   },
   {
-    "name": "STAR GLOBAL EXPERT SOLUTIONS JOINT STOCK COMPANY",
-    "address": "04 N8 Street, Quarter 2, Phu Huu Ward, Thu Duc City, Ho Chi Minh City, Vietnam",
-    "logo": "https://internship.cse.hcmut.edu.vn/img/company/68355d665d905d4f0dba64c1.png?t=31779409",
+    "name": "Công ty Cổ phần Giải pháp Chuyên gia Star Global",
+    "address": "4 Đường N8, Khu Phố 2, Long Trường, Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/68355d665d905d4f0dba64c1.png?t=39870529",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
