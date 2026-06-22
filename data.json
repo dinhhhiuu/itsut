@@ -36,7 +36,7 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "SB_SAM_BILLIARDS_D2_TTNT_HK253_2026-06-22_V2.pdf",
@@ -3710,7 +3710,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/66194c1ca36c17e66bd045c9.png?t=44709684",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 3,
     "files": [
       {
@@ -4175,7 +4175,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/60895cddee96ff021b97be65.png?t=35155017",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "files": [
       {
