@@ -2465,8 +2465,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e840af1fd2e5ab142d028d.png?t=29163475",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 1,
-    "studentAccepted": 2,
+    "studentRegister": 0,
+    "studentAccepted": 3,
     "files": [
       {
         "name": "Finpros_D3_TTNT_HK253_2026-05-27.pdf",
@@ -3335,7 +3335,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c95bc841f239ff1b30e45.jpg?t=03911271",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 6,
     "files": [
       {
@@ -4055,7 +4055,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/626bcf47bbe74fe7122f9627.png?t=38667160",
     "maxAcceptedStudent": 50,
     "maxRegister": 150,
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 10,
     "files": [
       {
@@ -4280,7 +4280,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607d40f7ee96ff021b97a98f.png?t=22450709",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 1,
     "files": [
       {
@@ -4505,7 +4505,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5cbdb50b32430223db649bb0.jpg?t=66482527",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 1,
     "files": [
       {
