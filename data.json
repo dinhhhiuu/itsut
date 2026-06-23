@@ -1,5 +1,35 @@
 [
   {
+    "name": "Công ty TNHH NNG",
+    "address": "02 Grand 1, The Peak Garden Villa, 600 Nguyễn Lương Bằng, Phường Tân Mỹ, TPHCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a39f59ea1e2f800231de08f.png?t=84897887",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "NNG_D2_TTNT_HK253_2026-06-22.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a39f59ea1e2f800231de08fNNG_D2_TTNT_HK253_2026-06-22.docx"
+      }
+    ]
+  },
+  {
+    "name": "Công ty TNHH EDTRONAUT",
+    "address": "Tầng 9, Tòa nhà International Plaza, 343 Phạm Ngũ Lão, Quận 1, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a39f59ca1e2f800231de08d.png?t=85131741",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Edtronaut_D2_TTNT_HK253_2026-06-22.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a39f59ca1e2f800231de08dEdtronaut_D2_TTNT_HK253_2026-06-22.docx"
+      }
+    ]
+  },
+  {
     "name": "VIỄN THÔNG AN GIANG (VNPT AN GIANG) – TẬP ĐOÀN BƯU CHÍNH VIỄN THÔNG VIỆT NAM",
     "address": "Số 25, đường Điện Biên Phủ, Phường Rạch Giá, tỉnh An Giang",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3901aba1e2f800231ddeda.png?t=20944517",
@@ -1070,12 +1100,12 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a283045a1e2f800231dc092.png?t=20611084",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "PHS_D2_TTNT_HK253_2026-06-08.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a283045a1e2f800231dc092PHS_D2_TTNT_HK253_2026-06-08.docx"
+        "name": "PHS_D2_TTNT_HK253_2026-06-23.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a283045a1e2f800231dc092PHS_D2_TTNT_HK253_2026-06-23.pdf"
       }
     ]
   },
@@ -2973,9 +3003,9 @@
     "name": "Công ty Cổ phần Phân bón Dầu khí Cà Mau (PVCFC)",
     "address": "Số 647 - 649, đường Ngô Quyền, Phường An Xuyên, tỉnh Cà Mau, Việt Nam; 173 - 179 đường Trương Văn Bang, phường Cát Lái, Thành phố Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6855548cbff0349643c630ad.png?t=22765466",
-    "maxAcceptedStudent": 1,
-    "maxRegister": 1,
-    "studentRegister": 0,
+    "maxAcceptedStudent": 5,
+    "maxRegister": 5,
+    "studentRegister": 4,
     "studentAccepted": 0,
     "files": [
       {
@@ -4280,7 +4310,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607558f6ee96ff021b979bfe.png?t=03486687",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 4,
     "files": [
       {
