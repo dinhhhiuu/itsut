@@ -1,5 +1,35 @@
 [
   {
+    "name": "CÔNG TY TNHH TƯ VẤN DỊCH VỤ THƯƠNG MẠI THÀNH THÁI",
+    "address": "93A Thành Thái, Phường Diên Hồng, TP Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3b7d31a1e2f800231de33b.png?t=83859285",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "TT_ThanhThai_D2_TTNT_HK253_2026-06-23.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a3b7d31a1e2f800231de33bTT_ThanhThai_D2_TTNT_HK253_2026-06-23.docx"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY CP DXP SOFTWARE",
+    "address": "Lầu 06-01, Tòa nhà The Six8, 24-26 Phan Đình Giót, Phường Tân Sơn Hòa, TPHCM, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3b7d2fa1e2f800231de339.png?t=84116584",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "DxP_D2_TTNT_HK253_2026-06-23.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a3b7d2fa1e2f800231de339DxP_D2_TTNT_HK253_2026-06-23.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH NNG",
     "address": "02 Grand 1, The Peak Garden Villa, 600 Nguyễn Lương Bằng, Phường Tân Mỹ, TPHCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a39f59ea1e2f800231de08f.png?t=84897887",
@@ -114,8 +144,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "SQC_D2_TTNT_HK253_2026-06-18.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc3a1e2f800231dd7c8SQC_D2_TTNT_HK253_2026-06-18.docx"
+        "name": "SQC_D2_TTNT_HK253_2026-06-24.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a34efc3a1e2f800231dd7c8SQC_D2_TTNT_HK253_2026-06-24.pdf"
       }
     ]
   },
@@ -740,8 +770,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2bfc2fa1e2f800231dc785.png?t=68539037",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 1,
-    "studentAccepted": 3,
+    "studentRegister": 0,
+    "studentAccepted": 4,
     "files": [
       {
         "name": "NaviX_D3_TTNT_HK253_2026-06-16.pdf",
@@ -2469,8 +2499,8 @@
     "studentAccepted": 3,
     "files": [
       {
-        "name": "Finpros_D3_TTNT_HK253_2026-05-27.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/69e840af1fd2e5ab142d028dFinpros_D3_TTNT_HK253_2026-05-27.pdf"
+        "name": "Finpros_D3_TTNT_HK253_2026-06-24.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/69e840af1fd2e5ab142d028dFinpros_D3_TTNT_HK253_2026-06-24.pdf"
       }
     ]
   },
