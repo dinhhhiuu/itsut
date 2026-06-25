@@ -441,7 +441,7 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "VSC_D2_TTNT_HK253_2026-06-25.pdf",
@@ -726,7 +726,7 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "AITSOFT_D2_TTNT_HK253_2026-06-25.pdf",
@@ -2450,7 +2450,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e981d61fd2e5ab142d04d4.png?t=11362303",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 3,
+    "studentRegister": 2,
     "studentAccepted": 0,
     "files": [
       {
@@ -4100,8 +4100,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/626bcf48bbe74fe7122f9629.jpg?t=27442362",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 3,
-    "studentAccepted": 0,
+    "studentRegister": 2,
+    "studentAccepted": 2,
     "files": [
       {
         "name": "TGL_D2_TTNT_HK253_2026-04-22.pdf",
@@ -4340,7 +4340,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607d40f7ee96ff021b97a98f.png?t=22450709",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "files": [
       {
