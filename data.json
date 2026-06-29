@@ -5,7 +5,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a41dd8e00e9f32025163d72.png?t=01516841",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -714,8 +714,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "DigiEx_D2_TTNT_HK253_2026-06-12.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70b2a1e2f800231dcda2DigiEx_D2_TTNT_HK253_2026-06-12.docx"
+        "name": "DigiEx_D2_TTNT_HK253_2026-06-29.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70b2a1e2f800231dcda2DigiEx_D2_TTNT_HK253_2026-06-29.pdf"
       }
     ]
   },
@@ -1389,8 +1389,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "MBF_HCM_Mobifone_D2_TTNT_HK253_2026-06-05.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a2697344c1d3446367e91c4MBF_HCM_Mobifone_D2_TTNT_HK253_2026-06-05.docx"
+        "name": "MBF_HCM_D2_TTNT_HK253_2026-06-29.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a2697344c1d3446367e91c4MBF_HCM_D2_TTNT_HK253_2026-06-29.pdf"
       }
     ]
   },
@@ -3129,8 +3129,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "PBDKCM_D2_TTNT_HK253_2026-06-19.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6855548cbff0349643c630adPBDKCM_D2_TTNT_HK253_2026-06-19.docx"
+        "name": "PBDKCM_D2_TTNT_HK253_2026-06-29.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6855548cbff0349643c630adPBDKCM_D2_TTNT_HK253_2026-06-29.pdf"
       }
     ]
   },
@@ -4430,8 +4430,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607558f6ee96ff021b979bfe.png?t=03486687",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 2,
-    "studentAccepted": 4,
+    "studentRegister": 1,
+    "studentAccepted": 5,
     "files": [
       {
         "name": "VNPT-HCM_D2_TTNT_HK253_2026-04-23.pdf",
