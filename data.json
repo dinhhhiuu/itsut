@@ -1,5 +1,50 @@
 [
   {
+    "name": "Công ty TNHH MTV SEEN Miền Nam",
+    "address": "Lô i3-8b, đường N2, Khu Công nghệ cao, phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a41dd8e00e9f32025163d72.png?t=01516841",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "SEEN_D2_TTNT_HK253_2026-06-26.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a41dd8e00e9f32025163d72SEEN_D2_TTNT_HK253_2026-06-26.docx"
+      }
+    ]
+  },
+  {
+    "name": "Viện Nghiên cứu cao cấp về Toán - VIASM",
+    "address": "161 Phố Huỳnh Thúc Kháng, Phường Láng, Hà Nội",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a41dd8d00e9f367c2163d69.png?t=04858854",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "VIASM_D2_TTNT_HK253_2026-06-26.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a41dd8d00e9f367c2163d69VIASM_D2_TTNT_HK253_2026-06-26.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công ty TNHH MTV Phú Sang",
+    "address": "145 Huỳnh Văn Cù, P. Thủ Dầu Một, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a41dd8b00e9f3acf6163d5c.png?t=05222004",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "PS_D2_TTNT_HK253_2026-06-27.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a41dd8b00e9f3acf6163d5cPS_D2_TTNT_HK253_2026-06-27.pdf"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH Bồi dưỡng Văn hóa Ánh Sao",
     "address": "687/56/8 QL.1, P. Bình Hưng Hòa, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a3de2eea1e2f800231de768.png?t=40747261",
@@ -230,8 +275,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a34efc0a1e2f800231dd7c2.png?t=54874698",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "Topicus_D2_TTNT_HK253_2026-06-26.pdf",
@@ -665,7 +710,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b2a1e2f800231dcda2.png?t=02389693",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -2495,7 +2540,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e981d31fd2e5ab142d04d0.png?t=39246354",
     "maxAcceptedStudent": 14,
     "maxRegister": 42,
-    "studentRegister": 1,
+    "studentRegister": 0,
     "studentAccepted": 14,
     "files": [
       {
