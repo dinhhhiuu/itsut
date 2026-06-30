@@ -1,12 +1,42 @@
 [
   {
+    "name": "CÔNG TY TNHH VINSTECH VIỆT-SING",
+    "address": "Đ/c: LK319, Khu C đất dịch vụ Hoà Bình, P.Yên Nghĩa, Hà Nội; Đ/c văn phòng. No5. Nguyễn Quý Dức, P.Thanh Xuân Bắc, Hà Nội.",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a4322b700e9f3014118d722.png?t=85228481",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "VINSTECH_D2_TTNT_HK253_2026-06-29.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a4322b700e9f3014118d722VINSTECH_D2_TTNT_HK253_2026-06-29.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công ty Cổ phần Công nghệ HQSOFT",
+    "address": "Lầu 2, Tòa nhà Aga Building 72/24 Phan Đăng Lưu, Phú Nhuận Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a4322b500e9f352a418d715.png?t=85389596",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "HQSoft_D2_TTNT_HK253_2026-06-29.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a4322b500e9f352a418d715HQSoft_D2_TTNT_HK253_2026-06-29.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH MTV SEEN Miền Nam",
     "address": "Lô i3-8b, đường N2, Khu Công nghệ cao, phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a41dd8e00e9f32025163d72.png?t=01516841",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "SEEN_D2_TTNT_HK253_2026-06-29.pdf",
@@ -3120,6 +3150,21 @@
     ]
   },
   {
+    "name": "Công ty Cổ phần Dịch vụ Di động Trực tuyến (M_Service) – Ví MoMo",
+    "address": "Tầng 12, Tòa nhà Phú Mỹ Hưng, số 8 Hoàng Văn Thái, Phường Tân Thú, quận 7, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/685c091fbff0349643c63c66.png?t=62741412",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "MoMo_1_D2_TTNT_HK253_2026-06-29.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/685c091fbff0349643c63c66MoMo_1_D2_TTNT_HK253_2026-06-29.pdf"
+      }
+    ]
+  },
+  {
     "name": "Công ty Cổ phần Phân bón Dầu khí Cà Mau (PVCFC)",
     "address": "Số 647 - 649, đường Ngô Quyền, Phường An Xuyên, tỉnh Cà Mau, Việt Nam; 173 - 179 đường Trương Văn Bang, phường Cát Lái, Thành phố Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6855548cbff0349643c630ad.png?t=22765466",
@@ -4038,14 +4083,14 @@
     "name": "Bosch 1 - Bosch Global Software Technologies Company Limited  (BGSW)",
     "address": "Tầng 10, Tòa nhà Etown 2, 364 Cộng Hòa, phường Tân Bình, TP. HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/644b346fe7ad7cc2b7232c49.png?t=02439962",
-    "maxAcceptedStudent": 2,
-    "maxRegister": 2,
+    "maxAcceptedStudent": 3,
+    "maxRegister": 3,
     "studentRegister": 0,
     "studentAccepted": 2,
     "files": [
       {
-        "name": "Bosch_1_D2_TTNT_HK253_2026-04-21.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/644b346fe7ad7cc2b7232c49Bosch_1_D2_TTNT_HK253_2026-04-21.pdf"
+        "name": "Bosch_1_D2_TTNT_HK253_2026-06-30_KietNT.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/644b346fe7ad7cc2b7232c49Bosch_1_D2_TTNT_HK253_2026-06-30_KietNT.pdf"
       }
     ]
   },
