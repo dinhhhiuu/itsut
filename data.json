@@ -4085,7 +4085,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/644b346fe7ad7cc2b7232c49.png?t=02439962",
     "maxAcceptedStudent": 3,
     "maxRegister": 3,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 2,
     "files": [
       {
@@ -4400,8 +4400,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/607f8d12ee96ff021b97ad88.png?t=68420383",
     "maxAcceptedStudent": 9,
     "maxRegister": 9,
-    "studentRegister": 9,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 9,
     "files": [
       {
         "name": "Marvell_D3_TTNT_HK253_2026-06-30.pdf",
@@ -4755,7 +4755,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5caef43e02c2e72195b4cedc.png?t=88168384",
     "maxAcceptedStudent": 150,
     "maxRegister": 450,
-    "studentRegister": 4,
+    "studentRegister": 3,
     "studentAccepted": 128,
     "files": [
       {
