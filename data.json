@@ -3170,8 +3170,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6855548cbff0349643c630ad.png?t=22765466",
     "maxAcceptedStudent": 5,
     "maxRegister": 5,
-    "studentRegister": 4,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 4,
     "files": [
       {
         "name": "PBDKCM_D2_TTNT_HK253_2026-06-29.pdf",
