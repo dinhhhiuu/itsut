@@ -1,5 +1,20 @@
 [
   {
+    "name": "Ngân hàng Thương mại cổ phần Sài Gòn Tài Lộc - Sacombank",
+    "address": "266 - 268 Nam Kỳ Khởi Nghĩa, phường Xuân Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a4786cb0dac56b446110d37.png?t=73051212",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "SCB_2_Sacombank_D2_TTNT_HK253_2026-07-02.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a4786cb0dac56b446110d37SCB_2_Sacombank_D2_TTNT_HK253_2026-07-02.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH Công nghệ Phần mềm NASANI",
     "address": "Lầu 1, Tòa nhà Sài Gòn Tel, Lô 46 Công viên phần mềm Quang Trung, Phường Trung Mỹ Tây, Thành phố Hồ Chí Minh, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a447ca9b27be6b9a5ee27df.png?t=74601142",
@@ -3150,6 +3165,21 @@
     ]
   },
   {
+    "name": "Techtronic Industries Vietnam",
+    "address": "Nhà máy Milwaukee PT tại Lô I-14.5, Đường D14, Khu Công Nghệ Cao, Phường Tăng Nhơn Phú, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/68613a8fbff0349643c64565.png?t=51498557",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 2,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "TTI_D2_TTNT_HK253_2026-07-02.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/68613a8fbff0349643c64565TTI_D2_TTNT_HK253_2026-07-02.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty Cổ phần Hitek Solution",
     "address": "18 Đường số 2, Cư Xá Đài rada Phú Lâm, P.13, Q.6, Tp.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/685cadd5bff0349643c63d86.png?t=05383263",
@@ -3339,8 +3369,8 @@
     "studentAccepted": 1,
     "files": [
       {
-        "name": "FIS_D2_TTNT_HK253_2026-05-26.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6837c4dcbff0349643c5fb3aFIS_D2_TTNT_HK253_2026-05-26.pdf"
+        "name": "FIS_D3_TTNT_HK253_2026-07-03.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6837c4dcbff0349643c5fb3aFIS_D3_TTNT_HK253_2026-07-03.pdf"
       }
     ]
   },
@@ -4196,6 +4226,21 @@
       {
         "name": "Ampere_D3_TTNT_HK253_2026-06-11.pdf",
         "url": "https://internship.cse.hcmut.edu.vn/company/628ef005bbe74fe7122fd281Ampere_D3_TTNT_HK253_2026-06-11.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công ty TNHH Amanotes Việt Nam",
+    "address": "141 – 143 Nguyễn Cơ Thạch, phường An Khánh, thành phố Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/628ef002bbe74fe7122fd27d.png?t=50668690",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 1,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Amanotes_D2_TTNT_HK253_2026-07-01.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/628ef002bbe74fe7122fd27dAmanotes_D2_TTNT_HK253_2026-07-01.docx"
       }
     ]
   },
