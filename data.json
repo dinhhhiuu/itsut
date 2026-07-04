@@ -486,7 +486,7 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "CSTEC_D3_TTNT_HK253_2026-07-02.pdf",
@@ -3545,7 +3545,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c95bc841f239ff1b30e45.jpg?t=03911271",
     "maxAcceptedStudent": 25,
     "maxRegister": 75,
-    "studentRegister": 11,
+    "studentRegister": 10,
     "studentAccepted": 6,
     "files": [
       {
