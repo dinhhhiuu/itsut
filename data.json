@@ -3558,8 +3558,8 @@
     "name": "Bosch - Công ty TNHH Bosch Global Software Technologies",
     "address": "BD/BA-AP Department, 3rd Floor, E-town 3, 364 Cong Hoa St., Tan Binh Ward, HCMC",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/681c0321841f239ff1b30d40.png?t=66339286",
-    "maxAcceptedStudent": 15,
-    "maxRegister": 45,
+    "maxAcceptedStudent": 20,
+    "maxRegister": 60,
     "studentRegister": 1,
     "studentAccepted": 10,
     "files": [
