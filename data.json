@@ -3225,6 +3225,21 @@
     ]
   },
   {
+    "name": "Công ty Cổ phần Công nghệ Tiên Phát",
+    "address": "Văn phòng đại diện phía Nam: SaiGon Prime Building – 107 Nguyễn Đình Chiểu, Phường Xuân Hòa, TP. Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/684fcfc1bff0349643c626a7.png?t=66385296",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "TP_TienPhat_D2_TTNT_HK253_2026-07-06.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/684fcfc1bff0349643c626a7TP_TienPhat_D2_TTNT_HK253_2026-07-06.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH GalaxyOne",
     "address": "Tầng 10, Tòa Galaxy Innovation Hub, Đường D1, Khu Công Nghệ Cao, Phường Tăng Nhơn Phú, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/684ae483bff0349643c61de1.png?t=66292540",
@@ -3564,8 +3579,8 @@
     "studentAccepted": 10,
     "files": [
       {
-        "name": "Bosch_D2_TTNT_HK253_2026-06-16_VyTN.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/681c0321841f239ff1b30d40Bosch_D2_TTNT_HK253_2026-06-16_VyTN.pdf"
+        "name": "Bosch_D2_TTNT_HK253_2026-07-06_VuongPQ.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/681c0321841f239ff1b30d40Bosch_D2_TTNT_HK253_2026-07-06_VuongPQ.pdf"
       }
     ]
   },
@@ -4361,6 +4376,21 @@
       {
         "name": "Alta_D2_TTNT_HK253_2026-06-05.pdf",
         "url": "https://internship.cse.hcmut.edu.vn/company/624e5db1bbe74fe7122f638fAlta_D2_TTNT_HK253_2026-06-05.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Pyramid Software & Consulting Co. Ltd",
+    "address": "Số 05 Hoa Sữa, P. Cầu Kiệu, TP HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/60caa4e90722b4e5ac2f2168.jpg?t=93540388",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "PSC_D2_TTNT_HK253_2026-07-06.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/60caa4e90722b4e5ac2f2168PSC_D2_TTNT_HK253_2026-07-06.pdf"
       }
     ]
   },
