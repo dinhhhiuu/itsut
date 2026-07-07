@@ -755,7 +755,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b3a1e2f800231dcda4.png?t=96666252",
     "maxAcceptedStudent": 3,
     "maxRegister": 9,
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "files": [
       {
@@ -1820,7 +1820,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a1c455a3693d5bcc58346f4.png?t=86668473",
     "maxAcceptedStudent": 5,
     "maxRegister": 15,
-    "studentRegister": 1,
+    "studentRegister": 2,
     "studentAccepted": 3,
     "files": [
       {
@@ -2570,7 +2570,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69e981d61fd2e5ab142d04d4.png?t=11362303",
     "maxAcceptedStudent": 15,
     "maxRegister": 45,
-    "studentRegister": 2,
+    "studentRegister": 1,
     "studentAccepted": 0,
     "files": [
       {
@@ -3140,7 +3140,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6879ad8df7ec6e26686f4ce9.png?t=04806919",
     "maxAcceptedStudent": 2,
     "maxRegister": 6,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "files": [
       {
@@ -3231,11 +3231,11 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "TP_TienPhat_D2_TTNT_HK253_2026-07-06.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/684fcfc1bff0349643c626a7TP_TienPhat_D2_TTNT_HK253_2026-07-06.docx"
+        "name": "TP_TienPhat_D2_TTNT_HK253_2026-07-07.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/684fcfc1bff0349643c626a7TP_TienPhat_D2_TTNT_HK253_2026-07-07.pdf"
       }
     ]
   },
@@ -3380,8 +3380,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6837c4dcbff0349643c5fb3a.png?t=85452888",
     "maxAcceptedStudent": 2,
     "maxRegister": 2,
-    "studentRegister": 1,
-    "studentAccepted": 1,
+    "studentRegister": 0,
+    "studentAccepted": 2,
     "files": [
       {
         "name": "FIS_D3_TTNT_HK253_2026-07-03.pdf",
@@ -4700,7 +4700,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5ecb8c55d1a3a42ea357ddec.png?t=98097864",
     "maxAcceptedStudent": 10,
     "maxRegister": 30,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 1,
     "files": [
       {
@@ -4710,8 +4710,8 @@
     ]
   },
   {
-    "name": "CÔNG TY CỔ PHẦN CÔNG NGHỆ VERICHAINS VIỆT NAM",
-    "address": "Tầng 23 tòa nhà E.Town Central, 11 Đoàn Văn Bơ, P. 12, Q. 4, TP HCM",
+    "name": "CÔNG TY CỔ PHẦN VERICHAINS",
+    "address": "Tầng 2, Tòa nhà Saigon Paragon, số 3 Nguyễn Lương Bằng, Phường Tân Mỹ, Thành phố Hồ Chí Minh, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/5cc03f391958d98f8c881595.png?t=63712862",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
