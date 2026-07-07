@@ -4716,11 +4716,11 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "Verichains_D2_TTNT_HK253_2026-06-15.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/5cc03f391958d98f8c881595Verichains_D2_TTNT_HK253_2026-06-15.docx"
+        "name": "Verichains_D2_TTNT_HK253_2026-07-07.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/5cc03f391958d98f8c881595Verichains_D2_TTNT_HK253_2026-07-07.pdf"
       }
     ]
   },
