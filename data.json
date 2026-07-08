@@ -1,16 +1,46 @@
 [
   {
-    "name": "Ngân hàng Thương mại cổ phần Sài Gòn Tài Lộc - Sacombank",
-    "address": "266 - 268 Nam Kỳ Khởi Nghĩa, phường Xuân Hòa, Thành phố Hồ Chí Minh, Việt Nam",
-    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a4786cb0dac56b446110d37.png?t=73051212",
+    "name": "VĂN PHÒNG ĐẠI DIỆN STYL SOLUTIONS PTE. LTD. TẠI TP.HỒ CHÍ MINH",
+    "address": "25-27 Đường B4, P. An Khánh, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a4dc250d0d69bbc4711ee3b.png?t=89997158",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
     "studentAccepted": 0,
     "files": [
       {
-        "name": "SCB_2_Sacombank_D2_TTNT_HK253_2026-07-02.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a4786cb0dac56b446110d37SCB_2_Sacombank_D2_TTNT_HK253_2026-07-02.docx"
+        "name": "STYL_D2_TTNT_HK253_2026-07-07_CE.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a4dc250d0d69bbc4711ee3bSTYL_D2_TTNT_HK253_2026-07-07_CE.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Tổng Công ty Công nghiệp Công nghệ cao Viettel (Viettel High Technology Industries Corporation)",
+    "address": "Tổng Công ty Giải pháp Doanh nghiệp Viettel – Tầng 10 Tòa nhà Viettel, số 285 Cách Mạng Tháng 8 – Phường Hòa Hưng – Tp.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a4dc24bd0d69b8a0f11ee2b.png?t=81158495",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "Viettel_VHT_4_D2_TTNT_HK253_2026-07-07_CE.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a4dc24bd0d69b8a0f11ee2bViettel_VHT_4_D2_TTNT_HK253_2026-07-07_CE.docx"
+      }
+    ]
+  },
+  {
+    "name": "Ngân hàng Thương mại cổ phần Sài Gòn Tài Lộc - Sacombank",
+    "address": "266 - 268 Nam Kỳ Khởi Nghĩa, phường Xuân Hòa, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a4786cb0dac56b446110d37.png?t=73051212",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "SCB_2_Sacombank_D3_TTNT_HK253_2026-07-08.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a4786cb0dac56b446110d37SCB_2_Sacombank_D3_TTNT_HK253_2026-07-08.pdf"
       }
     ]
   },
@@ -4386,11 +4416,11 @@
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
     "studentRegister": 0,
-    "studentAccepted": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "PSC_D2_TTNT_HK253_2026-07-06.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/60caa4e90722b4e5ac2f2168PSC_D2_TTNT_HK253_2026-07-06.pdf"
+        "name": "PSC_D2_TTNT_HK253_2026-07-08.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/60caa4e90722b4e5ac2f2168PSC_D2_TTNT_HK253_2026-07-08.pdf"
       }
     ]
   },
