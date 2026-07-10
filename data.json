@@ -1,5 +1,35 @@
 [
   {
+    "name": "Công ty Cổ phần Tập đoàn VNG",
+    "address": "Z06 Đường số 13, Phường Tân Thuận, Thành phố Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a507207d0d69b733b17b4a1.png?t=57317383",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "VNG_2_D2_TTNT_HK253_2026-07-09.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a507207d0d69b733b17b4a1VNG_2_D2_TTNT_HK253_2026-07-09.docx"
+      }
+    ]
+  },
+  {
+    "name": "Công ty CP phát triển công nghệ và DV Sáng Tạo",
+    "address": "77 đường số 5, p gò vấp TPHCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a507205d0d69b612817b494.png?t=57520851",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "SATA_D2_TTNT_HK253_2026-07-09.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a507205d0d69b612817b494SATA_D2_TTNT_HK253_2026-07-09.docx"
+      }
+    ]
+  },
+  {
     "name": "CÔNG TY CỔ PHẦN THƯƠNG MẠI VÀ DỊCH VỤ D2N",
     "address": "Unit 03.44, Block B, Chamington La Pointe, 181 Cao Thắng, phường Hòa Hưng, thành phố Hồ Chí Minh, Việt Nam",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a4f1b21d0d69b8279144a6d.png?t=69269238",
