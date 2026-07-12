@@ -3090,21 +3090,6 @@
     ]
   },
   {
-    "name": "CÔNG TY TNHH REBO",
-    "address": "Căn A23, A24, A25, Dự án Saigon Villas Hill, 99 Lê Văn Việt, Phường Tăng Nhơn Phú, TP Hồ Chí Minh, Việt Nam",
-    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69d275b46f0f734c3675129e.png?t=44308256",
-    "maxAcceptedStudent": 1,
-    "maxRegister": 1,
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "files": [
-      {
-        "name": "Rebo_D2_TTNT_HK253_2026-04-07.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/69d275b46f0f734c3675129eRebo_D2_TTNT_HK253_2026-04-07.pdf"
-      }
-    ]
-  },
-  {
     "name": "Công ty TNHH NOVAHA",
     "address": "Địa chỉ văn phòng 1: 173Q Đ. Đặng Văn Ngữ, Phường 13, Quận Phú Nhuận, Thành phố Hồ Chí Minh; Địa chỉ văn phòng 2: 123 Trương Định, Phường Võ Thị Sáu, Quận 3, Thành phố Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/69d275b36f0f734c3675129c.png?t=44578781",
@@ -4490,8 +4475,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/609c870dee96ff021b97df41.png?t=32883726",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "Zalo_D2_TTNT_HK253_2026-07-10.pdf",
