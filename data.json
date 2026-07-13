@@ -845,8 +845,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b2a1e2f800231dcda2.png?t=02389693",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "DigiEx_D2_TTNT_HK253_2026-06-29.pdf",
@@ -3086,6 +3086,21 @@
       {
         "name": "Hicas_D2_TTNT_HK253_2026-04-07.pdf",
         "url": "https://internship.cse.hcmut.edu.vn/company/69d3bb5e1fd2e5ab142cde92Hicas_D2_TTNT_HK253_2026-04-07.pdf"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY TNHH REBO",
+    "address": "Căn A23, A24, A25, Dự án Saigon Villas Hill, 99 Lê Văn Việt, Phường Tăng Nhơn Phú, TP Hồ Chí Minh, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/69d275b46f0f734c3675129e.png?t=44308256",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "Rebo_D2_TTNT_HK253_2026-04-07.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/69d275b46f0f734c3675129eRebo_D2_TTNT_HK253_2026-04-07.pdf"
       }
     ]
   },
