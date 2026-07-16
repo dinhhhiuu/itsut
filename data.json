@@ -1,5 +1,20 @@
 [
   {
+    "name": "Công ty TNHH Giải Pháp Phần Mềm Công Tác Và Thanh Toán",
+    "address": "Anna Building, Công viên Phần mềm Quang Trung, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a58361f99966d5f1d7f1ce8.png?t=65973306",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "HRS_D2_TTNT_HK253_2026_07_15.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a58361f99966d5f1d7f1ce8HRS_D2_TTNT_HK253_2026_07_15.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH Tích hợp Hệ thống Phan Nam",
     "address": "133/15 Nguyễn Đức Thuận, P. Tân Bình, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a57035879d185e65a391e4f.png?t=87426124",
