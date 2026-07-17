@@ -1,5 +1,20 @@
 [
   {
+    "name": "CÔNG TY TNHH THƯƠNG MẠI DỊCH VỤ VÀ QUẢNG CÁO BÁCH VINH",
+    "address": "18 Duy Tân, phường Hòa Cường, thành phố Đà Nẵng, Việt Nam",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a598b4499966df89c817625.png?t=53316564",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "BV_BachVinh_D2_TTNT_HK253_2026-07-15.docx",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a598b4499966df89c817625BV_BachVinh_D2_TTNT_HK253_2026-07-15.docx"
+      }
+    ]
+  },
+  {
     "name": "Công ty TNHH Giải Pháp Phần Mềm Công Tác Và Thanh Toán",
     "address": "Anna Building, Công viên Phần mềm Quang Trung, TP.HCM",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a58361f99966d5f1d7f1ce8.png?t=65973306",
