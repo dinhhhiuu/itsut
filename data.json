@@ -4250,8 +4250,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/64530d08e7ad7cc2b72339de.png?t=56722130",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 1,
-    "studentAccepted": 40,
+    "studentRegister": 0,
+    "studentAccepted": 41,
     "files": [
       {
         "name": "Viettel_Group_D2_TTNT_HK253_2026-04-21.pdf",
