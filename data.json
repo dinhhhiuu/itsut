@@ -4250,7 +4250,7 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/64530d08e7ad7cc2b72339de.png?t=56722130",
     "maxAcceptedStudent": 100,
     "maxRegister": 300,
-    "studentRegister": 0,
+    "studentRegister": 1,
     "studentAccepted": 40,
     "files": [
       {
