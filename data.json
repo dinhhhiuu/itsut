@@ -4380,6 +4380,36 @@
     ]
   },
   {
+    "name": "Công ty TNHH atWare Việt Nam",
+    "address": "WeWork, tòa nhà ETown Central, 11 Đoàn Văn Bơ, quận 4, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/62748bbabbe74fe7122fa52c.png?t=05408584",
+    "maxAcceptedStudent": 2,
+    "maxRegister": 6,
+    "studentRegister": 0,
+    "studentAccepted": 1,
+    "files": [
+      {
+        "name": "atWare_D3_TTNT_HK253_2026-05-19.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/62748bbabbe74fe7122fa52catWare_D3_TTNT_HK253_2026-05-19.pdf"
+      }
+    ]
+  },
+  {
+    "name": "CÔNG TY CỔ PHẦN TGL SOLUTIONS",
+    "address": "167 đường Trần Não, Phường An Khánh, Thành phố Hồ Chí Minh",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/626bcf48bbe74fe7122f9629.jpg?t=27442362",
+    "maxAcceptedStudent": 10,
+    "maxRegister": 30,
+    "studentRegister": 1,
+    "studentAccepted": 2,
+    "files": [
+      {
+        "name": "TGL_D3_TTNT_HK253_2026-06-27.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/626bcf48bbe74fe7122f9629TGL_D3_TTNT_HK253_2026-06-27.pdf"
+      }
+    ]
+  },
+  {
     "name": "NAB Innovation Centre Vietnam - National Australia Bank Limited",
     "address": "Tòa nhà Hallmark, 15 Trần Bạch Đằng, phường Thủ Thiêm, TP Thủ Đức, TP Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/626bcf47bbe74fe7122f9627.png?t=38667160",
