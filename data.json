@@ -669,8 +669,8 @@
     "studentAccepted": 0,
     "files": [
       {
-        "name": "HDSS_D2_TTNT_HK253_2026-06-16_.docx",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a3169d0a1e2f800231dd161HDSS_D2_TTNT_HK253_2026-06-16_.docx"
+        "name": "HDSS_D2_TTNT_HK253_2026-07-22.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a3169d0a1e2f800231dd161HDSS_D2_TTNT_HK253_2026-07-22.pdf"
       }
     ]
   },
@@ -3971,6 +3971,21 @@
       {
         "name": "APLG_D3_TTNT_HK253_2026-06-17.pdf",
         "url": "https://internship.cse.hcmut.edu.vn/company/66631323f5911d0a68b801adAPLG_D3_TTNT_HK253_2026-06-17.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công Ty TNHH Semiconductor Technologies Việt Nam",
+    "address": "Phòng SEMICON, tầng 10, Tòa Nhà Thủy Lợi 4, số 205A Nguyễn Xí, Phường 26, Quận Bình Thạnh, Tp. HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/666115565525c35634b81069.png?t=25635476",
+    "maxAcceptedStudent": 5,
+    "maxRegister": 15,
+    "studentRegister": 0,
+    "studentAccepted": 3,
+    "files": [
+      {
+        "name": "Semicon_D3_TTNT_HK253_2026-06-17.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/666115565525c35634b81069Semicon_D3_TTNT_HK253_2026-06-17.pdf"
       }
     ]
   },
