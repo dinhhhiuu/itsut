@@ -200,12 +200,12 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a41dd8d00e9f367c2163d69.png?t=04858854",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
-        "name": "VIASM_D2_TTNT_HK253_2026-06-26.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a41dd8d00e9f367c2163d69VIASM_D2_TTNT_HK253_2026-06-26.pdf"
+        "name": "VIASM_D2_TTNT_HK253_2026-07-21_HoangNV.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/6a41dd8d00e9f367c2163d69VIASM_D2_TTNT_HK253_2026-07-21_HoangNV.pdf"
       }
     ]
   },
@@ -3626,6 +3626,21 @@
       {
         "name": "DE_D3_TTNT_HK253_2026-05-27.pdf",
         "url": "https://internship.cse.hcmut.edu.vn/company/682d881b5d905d4f0dba5717DE_D3_TTNT_HK253_2026-05-27.pdf"
+      }
+    ]
+  },
+  {
+    "name": "Công ty TNHH Công nghệ & Dịch vụ BeOne",
+    "address": "14 đường 16, Khu dân cư Phong Phú 5, xã Bình Hưng, TP.HCM",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/682c73f55d905d4f0dba552c.png?t=44032399",
+    "maxAcceptedStudent": 1,
+    "maxRegister": 1,
+    "studentRegister": 0,
+    "studentAccepted": 0,
+    "files": [
+      {
+        "name": "BO_BeOne_D2_TTNT_HK253_2026-07-22.pdf",
+        "url": "https://internship.cse.hcmut.edu.vn/company/682c73f55d905d4f0dba552cBO_BeOne_D2_TTNT_HK253_2026-07-22.pdf"
       }
     ]
   },
