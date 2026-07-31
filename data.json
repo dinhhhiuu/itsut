@@ -4280,8 +4280,8 @@
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/644b346fe7ad7cc2b7232c49.png?t=02439962",
     "maxAcceptedStudent": 3,
     "maxRegister": 3,
-    "studentRegister": 1,
-    "studentAccepted": 2,
+    "studentRegister": 0,
+    "studentAccepted": 3,
     "files": [
       {
         "name": "Bosch_1_D2_TTNT_HK253_2026-07-27_KietNT.pdf",
