@@ -1742,11 +1742,11 @@
   {
     "name": "Viettel Đắk Lắk - Chi nhánh Tập đoàn Công nghiệp - Viễn thông Quân đội",
     "address": "Số 48 Lý Tự Trọng, Phường Tân An, Tỉnh Đắk Lắk",
-    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a20ee713693d5bcc5834f3d.png?t=54422240",
+    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a20ee713693d5bcc5834f3d.jpg?t=70723885",
     "maxAcceptedStudent": 1,
     "maxRegister": 1,
-    "studentRegister": 1,
-    "studentAccepted": 0,
+    "studentRegister": 0,
+    "studentAccepted": 1,
     "files": [
       {
         "name": "Viettel_DL_DakLak_D3_TTNT_HK253_2026-06-16.pdf",
