@@ -825,36 +825,6 @@
     ]
   },
   {
-    "name": "Công ty CP PM Việt Long",
-    "address": "451/24/43 Tô Hiến Thành, P. Diên Hồng, TP.HCM",
-    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b7a1e2f800231dcdaa.png?t=01555777",
-    "maxAcceptedStudent": 1,
-    "maxRegister": 1,
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "files": [
-      {
-        "name": "VL_D2_TTNT_HK253_2026-06-12.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70b7a1e2f800231dcdaaVL_D2_TTNT_HK253_2026-06-12.pdf"
-      }
-    ]
-  },
-  {
-    "name": "CÔNG TY TNHH KỸ THUẬT SỐ DR (DR DIGITAL COMPANY LIMITED)",
-    "address": "606/133/3 Đường Ba Tháng Hai, Phường Diên Hồng, TP. Hồ Chí Minh, Việt Nam",
-    "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b5a1e2f800231dcda8.png?t=01698358",
-    "maxAcceptedStudent": 1,
-    "maxRegister": 1,
-    "studentRegister": 0,
-    "studentAccepted": 1,
-    "files": [
-      {
-        "name": "DRD_D2_TTNT_HK253_2026-06-18.pdf",
-        "url": "https://internship.cse.hcmut.edu.vn/company/6a2f70b5a1e2f800231dcda8DRD_D2_TTNT_HK253_2026-06-18.pdf"
-      }
-    ]
-  },
-  {
     "name": "CÔNG TY CỔ PHẦN INNOVATION AILAB",
     "address": "19Y/3B/3 Tam Bình, KP.7, P. Hiệp Bình, Tp Hồ Chí Minh",
     "logo": "https://internship.cse.hcmut.edu.vn/img/company/6a2f70b4a1e2f800231dcda6.png?t=02223767",
